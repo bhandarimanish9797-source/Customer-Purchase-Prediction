@@ -1,0 +1,1001 @@
+Record_ID,Sale_Date,City,Neighborhood,Property_Type,Bedrooms,Bathrooms,Area_sqft,Lot_Size,Floors,House_Age,Garage_Capacity,Distance_to_City,Crime_Rate,School_Rating,Has_Garden,Has_Pool,Condition,Heating_Type,Target_Column
+1,2024-07-22,Thane,Thane,Independent House,2,1,1428.0,1849.7,1,14,0,24.0,1.3,2.3,True,True,Poor,Gas,14114722.44
+2,2025-09-10,Nashik,Nashik,Apartment,1,1,1116.7,1760.2,1,27,1,38.3,4.0,2.3,True,False,Poor,Solar,10167899.87
+3,2024-08-26,Mumbai,Mumbai,Villa,3,4,2300.1,5200.8,3,18,2,23.5,7.3,2.1,True,False,Fair,Electric,22519584.74
+4,2024-10-03,Nagpur,Nagpur,Independent House,2,2,1186.5,2418.4,3,13,0,24.8,2.5,4.2,True,False,Good,Solar,11615354.08
+5,2025-02-09,Nagpur,Nagpur,Independent House,1,1,1115.2,2483.7,2,2,2,3.6,9.2,3.7,False,True,Poor,Gas,11339279.9
+6,2024-04-22,Mumbai,Mumbai,Apartment,3,4,1464.9,3143.3,2,16,3,15.1,10.0,2.4,False,True,Poor,Solar,14957617.3
+7,2025-03-21,Nashik,,Apartment,3,4,1951.7,,1,16,0,27.6,,,False,True,Fair,,19353548.05
+8,2024-01-20,Nagpur,Nagpur,Villa,2,3,1544.7,3519.3,3,19,1,7.0,7.9,3.6,True,False,Fair,Gas,14656133.55
+9,2025-07-06,Pune,Pune,Independent House,3,2,2458.4,5512.9,3,31,1,6.0,5.3,3.6,False,False,Good,Solar,23215041.86
+10,2024-03-13,Mumbai,Mumbai,Apartment,2,2,882.8,2082.9,2,28,0,10.7,1.6,2.1,True,True,Good,Gas,10254748.25
+11,2025-02-20,Nagpur,Nagpur,Apartment,3,4,2321.0,3457.9,2,15,1,22.0,7.5,4.6,False,True,Poor,Electric,22395852.28
+12,2024-07-06,Nagpur,Nagpur,Apartment,3,2,1002.5,1187.8,3,6,2,32.2,2.0,2.6,False,True,Excellent,Electric,10725999.64
+13,2025-01-23,Pune,pune,Villa,2,1,1850.9,4202.5,1,34,1,7.5,5.4,2.6,False,True,Fair,Electric,16811749.02
+14,2025-08-21,Mumbai,Mumbai,Independent House,3,4,1330.4,1751.7,2,31,1,38.8,6.2,3.6,False,True,Good,Gas,13822291.6
+15,2025-11-04,Nagpur,Nagpur,Independent House,2,1,1698.2,2029.5,1,38,3,5.7,9.0,2.7,True,True,Fair,Electric,16046518.25
+16,2025-07-30,Thane,Thane,Apartment,2,2,1724.9,2213.5,3,25,2,18.8,9.4,4.8,True,False,Good,Solar,16728056.31
+17,2024-05-17,Mumbai,Mumbai,Apartment,1,1,1389.1,2082.2,2,23,2,24.9,9.9,4.0,True,False,Good,Electric,13307365.8
+18,2024-01-04,Mumbai,Mumbai,Apartment,2,1,1431.8,3284.7,3,40,3,10.8,9.2,2.2,False,False,Fair,Gas,12940781.66
+19,2024-02-12,Pune,Pune,Apartment,2,3,1465.1,1841.1,3,0,1,22.3,8.5,3.7,True,False,Fair,Gas,14028666.36
+20,2024-07-02,Mumbai,Mumbai,Villa,2,3,1193.1,2938.9,3,26,1,37.1,3.1,2.5,True,False,Poor,Solar,11166560.06
+21,2024-01-25,Pune,Pune,Villa,4,3,2099.3,3433.5,1,6,3,9.7,8.3,3.4,False,True,Fair,Electric,20518952.06
+22,2024-04-21,Mumbai,Mumbai,Villa,4,4,2359.3,3915.3,3,32,2,37.6,2.0,4.9,True,False,Fair,Electric,22477720.24
+23,2024-03-12,Nagpur,Nagpur,Villa,2,3,1029.9,1500.2,3,12,3,1.1,9.3,3.6,True,False,Fair,Solar,10251239.0
+24,2025-08-05,Thane,Thane,Independent House,3,4,1960.7,3987.4,2,19,3,28.2,6.0,2.6,False,True,Excellent,Electric,18848610.86
+25,2025-06-11,Nashik,Nashik,Independent House,3,4,1378.2,2413.1,2,20,1,20.9,8.1,4.9,True,True,Fair,Gas,14788958.06
+26,2025-10-06,Nagpur,Nagpur,Independent House,4,4,1847.6,4118.6,1,14,0,2.8,9.9,3.8,True,False,Poor,Electric,18120359.57
+27,2024-05-16,Nagpur,Nagpur,Independent House,3,2,1271.8,2784.9,1,6,1,32.4,7.3,3.4,True,True,Fair,Electric,13206941.26
+28,2024-10-08,Pune,Pune,Independent House,2,2,894.5,1542.3,1,35,3,18.6,7.8,4.5,False,False,Fair,Gas,8088250.23
+29,2024-07-30,Mumbai,Mumbai,Villa,3,2,1440.3,1888.5,2,8,1,28.6,1.6,3.2,False,False,Excellent,Solar,14357622.56
+30,2024-06-18,Nagpur,Nagpur,Apartment,2,2,1460.3,3351.1,2,24,1,20.0,3.5,3.5,False,False,Excellent,Electric,13779729.17
+31,2024-10-11,Nagpur,Nagpur,Villa,1,2,882.1,1137.9,2,27,1,3.0,4.4,2.6,False,False,Fair,Gas,8002311.56
+32,2024-05-09,Pune,Pune,Apartment,1,1,683.0,1373.1,3,14,0,30.4,9.5,2.6,True,True,Good,Electric,6810915.35
+33,2025-11-24,Thane,Thane,Villa,1,2,1233.6,3021.3,3,38,0,31.3,2.5,2.9,True,False,Poor,Solar,10897877.74
+34,2025-06-02,Mumbai,Mumbai,Apartment,4,3,1713.6,3557.5,2,6,0,32.1,6.1,2.1,False,False,Poor,Electric,17097076.15
+35,2024-10-01,Thane,Thane,Apartment,6,6,2502.9,4279.1,3,9,2,25.0,9.3,4.3,False,False,Excellent,Electric,25575791.65
+36,2024-10-13,Nashik,Nashik,Independent House,3,4,1775.1,3613.2,2,39,0,20.3,3.9,3.5,False,False,Fair,Solar,16891357.84
+37,2025-02-18,Pune,Pune,Villa,4,3,2713.6,4841.1,1,26,3,26.2,5.4,4.4,True,False,Fair,Electric,26086999.06
+38,2025-12-07,Thane,Thane,Apartment,3,4,1066.7,1698.8,2,21,2,13.0,3.1,4.2,False,True,Poor,Electric,11529826.63
+39,2024-02-25,Mumbai,Mumbai,Independent House,3,4,1282.1,3170.3,1,18,2,9.9,2.6,2.0,True,False,Good,Solar,12428312.07
+40,2025-02-14,Mumbai,Mumbai,Independent House,2,3,1893.6,3327.3,2,18,2,8.2,1.5,4.8,False,True,Excellent,Gas,18538932.75
+41,2025-08-05,Nashik,Nashik,Independent House,3,2,1880.7,2380.6,2,15,1,31.3,4.4,4.7,False,False,Excellent,Gas,18249303.98
+42,2024-10-22,Pune,,Independent House,1,1,1223.7,,1,15,1,1.1,,,False,True,Poor,,11735238.71
+43,2024-11-10,Pune,Pune,Independent House,3,4,1064.9,1805.3,3,12,1,26.3,9.2,4.5,True,True,Fair,Electric,11002619.83
+44,2024-04-03,Mumbai,Mumbai,Independent House,5,5,2042.3,3677.5,2,17,3,4.1,1.4,3.3,False,False,Excellent,Solar,21167554.54
+45,2025-02-22,Nashik,Nashik,Independent House,2,2,1784.3,3590.1,2,33,1,39.9,4.9,4.4,True,False,Excellent,Gas,16305123.39
+46,2025-04-18,Thane,Thane,Apartment,2,3,1130.3,2530.7,3,25,0,18.7,3.8,3.0,False,True,Fair,Solar,11825396.7
+47,2025-07-18,Nashik,nashik,Villa,2,1,1528.4,2856.4,2,17,3,35.4,5.4,2.1,True,True,Excellent,Gas,14266159.48
+48,2025-07-18,Nagpur,Nagpur,Apartment,5,4,2603.5,4680.3,3,9,2,20.8,3.5,4.5,False,True,Good,Gas,26130946.62
+49,2025-07-05,Nagpur,Nagpur,Villa,2,2,1355.0,1997.3,1,32,2,29.3,8.5,3.7,False,True,Poor,Electric,13389620.98
+50,2025-05-22,Pune,,Apartment,5,4,2420.7,,2,36,0,13.4,,,False,False,Fair,,23369767.24
+51,2025-11-21,Nashik,Nashik,Villa,4,4,1879.0,3967.3,2,0,1,3.9,8.0,2.8,False,True,Fair,Solar,19021989.07
+52,2024-06-19,Nagpur,Nagpur,Apartment,3,2,1335.2,1596.6,3,39,2,39.9,7.7,3.3,True,True,Excellent,Electric,12580950.96
+53,2024-05-26,Thane,Thane,Independent House,3,3,1619.1,2334.6,2,9,1,7.6,1.7,4.6,True,False,Fair,Electric,16296523.02
+54,2024-07-22,Nashik,Nashik,Villa,2,2,1497.7,1978.7,2,34,2,39.5,3.7,4.9,False,False,Excellent,Gas,13920509.79
+55,2024-08-23,Nashik,Nashik,Villa,2,3,1153.5,1304.3,3,18,3,11.7,6.1,4.1,True,False,Good,Solar,11791594.34
+56,2024-11-30,Nashik,Nashik,Apartment,4,5,1639.5,3245.5,3,8,0,13.0,5.0,3.7,True,True,Good,Gas,17837690.33
+57,2025-04-24,Mumbai,Mumbai,Apartment,3,4,1732.5,4121.5,1,32,2,36.6,9.5,4.9,False,False,Good,Solar,15864376.35
+58,2024-04-20,Nashik,Nashik,Villa,3,3,1274.5,2812.8,1,5,2,21.9,5.1,4.0,False,False,Excellent,Solar,11993666.92
+59,2024-04-28,Nagpur,Nagpur,Independent House,4,3,1979.5,3938.3,2,4,2,26.3,2.1,2.1,True,False,Good,Electric,19441244.15
+60,2025-12-07,Mumbai,Mumbai,Villa,2,3,786.4,1326.4,3,34,1,35.5,6.9,4.5,False,False,Poor,Gas,7645520.48
+61,2025-10-19,Pune,Pune,Apartment,4,4,1640.7,3876.0,3,34,2,3.4,3.5,4.9,False,True,Excellent,Electric,16929156.19
+62,2024-05-28,Nashik,Nashik,Independent House,4,3,1510.5,3416.3,3,4,1,23.9,8.3,2.7,True,True,Fair,Gas,15905833.66
+63,2025-05-02,Mumbai,Mumbai,Villa,3,2,2273.4,5015.0,1,22,2,1.6,3.4,2.4,False,True,Excellent,Electric,22367744.22
+64,2024-03-16,Nagpur,Nagpur,Villa,1,2,300.0,456.7,3,33,0,3.4,5.3,3.2,True,False,Good,Gas,3208551.63
+65,2025-04-07,Nagpur,Nagpur,Villa,4,5,1991.0,3251.8,3,20,2,18.7,6.4,2.3,True,True,Fair,Electric,20641112.66
+66,2024-04-08,Nagpur,Nagpur,Villa,1,1,849.6,1725.6,2,20,1,27.8,5.3,2.3,True,True,Good,Solar,8621575.4
+67,2025-08-14,Mumbai,Mumbai,Apartment,6,6,2664.7,4463.7,3,7,3,34.9,7.5,4.9,False,False,Poor,Gas,26919564.93
+68,2024-07-03,Mumbai,Mumbai,Villa,4,4,1766.4,3828.9,3,7,1,32.5,8.6,4.9,True,False,Fair,Electric,17599309.19
+69,2025-01-13,Pune,Pune,Villa,6,7,2509.0,3004.3,3,25,0,4.6,5.8,3.1,False,False,Excellent,Gas,25403244.78
+70,2024-04-23,Nagpur,Nagpur,Independent House,2,3,1968.4,2915.2,3,5,3,19.9,5.0,2.8,True,False,Poor,Solar,19388879.67
+71,2025-03-16,Nagpur,Nagpur,Villa,2,3,1424.2,1581.9,2,3,1,30.9,7.9,2.9,True,True,Good,Solar,14279115.06
+72,2024-10-23,Nagpur,Nagpur,Apartment,1,1,807.4,1862.3,1,25,3,1.7,9.3,4.6,False,False,Fair,Gas,7209123.84
+73,2024-12-07,Pune,Pune,Apartment,4,4,1719.9,2943.4,1,5,1,18.0,4.6,2.2,False,False,Excellent,Solar,16818962.49
+74,2025-04-20,Nagpur,Nagpur,Independent House,1,1,415.0,593.8,1,9,2,8.7,6.4,4.3,True,True,Poor,Solar,4882325.1
+75,2024-02-27,Thane,Thane,Apartment,5,6,2072.9,4788.2,3,20,2,6.9,1.6,3.3,False,False,Fair,Electric,21059271.16
+76,2025-10-29,Thane,Thane,Independent House,2,1,1336.6,2621.1,3,5,3,19.0,6.0,4.4,True,False,Poor,Solar,13035128.91
+77,2024-10-16,Nashik,Nashik,Villa,2,2,1604.3,2897.9,1,5,0,10.7,4.9,3.3,True,False,Excellent,Solar,15728390.72
+78,2024-05-12,Nagpur,Nagpur,Apartment,1,2,1389.0,2080.4,3,24,1,14.0,6.2,2.4,False,False,Fair,Solar,12542105.51
+79,2024-07-15,Nagpur,,Apartment,1,2,867.2,,3,33,3,20.8,,,True,False,Good,,8703635.51
+80,2025-02-24,Mumbai,Mumbai,Independent House,3,4,1250.0,1441.1,2,33,1,24.3,2.4,2.5,True,False,Good,Electric,13149211.97
+81,2025-05-29,Nagpur,Nagpur,Apartment,1,1,858.3,1231.5,2,34,1,15.3,9.5,5.0,False,False,Good,Solar,7265584.89
+82,2024-08-15,Mumbai,Mumbai,Villa,4,4,1744.7,3273.6,1,23,0,12.1,7.9,2.8,True,False,Excellent,Electric,17595006.37
+83,2024-10-20,Mumbai,Mumbai,Villa,3,3,2057.7,3343.5,1,5,2,37.3,8.6,3.9,True,True,Good,Solar,20447306.77
+84,2025-10-16,Nagpur,Nagpur,Villa,1,1,821.8,1152.1,1,16,3,5.3,3.6,2.9,True,True,Excellent,Gas,8593296.52
+85,2025-06-20,Mumbai,Mumbai,Apartment,4,3,1805.0,3287.8,1,40,1,12.4,1.0,3.1,False,True,Excellent,Electric,17778573.32
+86,2024-12-26,Mumbai,Mumbai,Independent House,3,3,1604.4,3443.4,2,16,0,14.4,7.6,3.9,False,True,Good,Solar,16001429.99
+87,2025-06-11,Nashik,Nashik,Independent House,2,1,748.0,888.9,2,8,0,12.4,1.4,2.6,True,False,Poor,Electric,7880154.24
+88,2024-07-10,Nashik,Nashik,Villa,4,4,2202.4,5092.3,2,3,2,5.9,4.3,4.7,False,False,Fair,Solar,22071726.17
+89,2025-03-12,Thane,Thane,Villa,2,1,1478.2,2872.8,1,27,2,13.5,1.7,4.0,False,False,Fair,Electric,14002929.45
+90,2025-09-14,Pune,Pune,Villa,4,5,2474.5,3673.1,1,27,0,27.2,4.7,3.5,True,True,Excellent,Gas,24868052.62
+91,2025-01-10,Thane,,Independent House,4,4,2291.8,,1,24,1,27.5,,,True,True,Fair,,22840128.52
+92,2024-05-05,Pune,Pune,Apartment,2,2,1611.1,2645.0,3,33,0,11.2,3.3,3.3,False,False,Poor,Gas,15040735.56
+93,2025-06-04,Nashik,Nashik,Apartment,2,3,1936.4,3940.5,3,20,0,22.4,3.6,2.9,True,True,Good,Gas,18819755.92
+94,2025-08-11,Nagpur,Nagpur,Villa,4,5,1529.0,2682.4,3,23,1,24.9,1.8,2.9,False,False,Excellent,Electric,15499627.21
+95,2024-06-14,Pune,,Independent House,1,2,910.3,,1,40,3,20.6,,,True,False,Good,,8474101.98
+96,2025-11-05,Pune,Pune,Independent House,4,3,2072.2,2848.9,3,16,2,5.9,3.7,3.6,True,True,Fair,Solar,21008341.91
+97,2024-09-07,Nagpur,Nagpur,Independent House,3,2,2465.1,3625.0,1,36,3,25.1,1.3,4.7,False,False,Poor,Electric,23253363.18
+98,2025-01-14,Pune,Pune,Apartment,1,1,768.5,1366.4,1,26,2,24.7,3.8,4.2,False,False,Fair,Gas,7141611.44
+99,2024-06-12,Pune,Pune,Independent House,1,1,1114.2,1304.6,2,6,3,10.7,8.8,2.5,False,False,Poor,Electric,10190524.57
+100,2024-01-09,Thane,Thane,Villa,2,2,1925.2,3350.1,1,32,1,23.8,1.4,2.8,False,False,Good,Electric,17576268.42
+101,2025-11-27,Thane,Thane,Apartment,2,1,1380.3,1617.2,3,25,1,15.1,3.6,3.2,False,False,Excellent,Electric,12332495.53
+102,2025-04-12,Thane,,Independent House,1,1,471.8,,3,9,3,20.5,,,False,False,Good,,5207374.42
+103,2025-03-02,Mumbai,Mumbai,Independent House,3,4,1897.8,3665.1,3,19,3,28.6,3.7,4.4,False,False,Excellent,Solar,18354448.39
+104,2024-02-02,Pune,Pune,Independent House,1,2,300.0,633.0,3,14,3,7.6,6.7,3.9,False,True,Excellent,Gas,3793613.09
+105,2024-11-28,Thane,,Villa,2,2,1930.8,,3,13,3,35.0,,,True,True,Poor,,18502827.17
+106,2024-10-22,Nashik,Nashik,Independent House,5,5,2034.4,3246.8,3,34,2,24.8,2.7,2.7,False,True,Poor,Electric,20596777.8
+107,2024-10-21,Mumbai,Mumbai,Apartment,2,2,864.0,1097.9,3,18,3,35.9,4.6,3.0,True,False,Fair,Electric,8565932.2
+108,2024-08-19,Thane,Thane,Apartment,1,1,1038.0,1535.8,3,34,2,6.4,6.5,3.8,True,True,Excellent,Electric,9709941.39
+109,2024-10-19,Nashik,,Apartment,3,2,1226.7,,1,0,3,26.5,,,True,False,Good,,12567183.71
+110,2024-11-01,Mumbai,Mumbai,Apartment,1,1,1430.8,3341.1,1,26,0,39.9,4.6,3.5,False,True,Fair,Electric,12624839.85
+111,2024-01-15,Pune,Pune,Villa,2,2,813.3,1863.6,2,8,2,8.5,2.0,2.5,False,False,Good,Gas,8385838.01
+112,2025-01-27,Nashik,Nashik,Villa,1,1,953.0,1485.8,2,32,0,8.2,2.3,3.0,True,True,Fair,Electric,9225050.36
+113,2025-01-11,Nashik,Nashik,Apartment,1,2,933.4,1932.1,1,23,0,19.2,2.4,4.1,False,True,Good,Electric,9159932.56
+114,2025-12-21,Thane,Thane,Independent House,4,4,1974.2,4111.8,2,26,1,30.7,7.1,3.8,True,False,Excellent,Gas,19804699.81
+115,2025-04-09,Mumbai,Mumbai,Villa,3,4,2012.9,2636.5,2,34,3,5.5,2.8,3.7,True,False,Poor,Solar,19210874.76
+116,2025-04-28,Mumbai,Mumbai,Villa,4,5,2020.8,3343.1,1,1,1,23.6,1.4,3.0,True,True,Good,Gas,21284731.25
+117,2024-07-01,Mumbai,Mumbai,Villa,4,4,1637.4,4077.2,2,23,3,34.9,9.2,3.1,True,False,Good,Solar,15366446.79
+118,2024-07-12,Nashik,Nashik,Independent House,3,3,2440.4,4985.5,3,29,3,21.7,8.4,2.7,False,True,Excellent,Gas,23085808.67
+119,2025-03-25,Nagpur,Nagpur,Apartment,2,1,1690.3,2018.6,3,13,0,18.4,7.0,4.6,True,True,Excellent,Gas,16252510.99
+120,2024-10-08,Nashik,,Independent House,3,4,1086.9,,3,20,2,10.2,,,True,False,Good,,11429327.94
+121,2024-11-03,Pune,Pune,Apartment,1,1,1224.3,2693.5,2,24,3,16.9,3.7,2.6,False,True,Poor,Gas,11219710.95
+122,2024-07-14,Thane,Thane,Villa,1,2,300.0,493.1,2,8,1,13.9,1.7,3.3,False,True,Excellent,Gas,3585593.08
+123,2024-09-05,Nagpur,Nagpur,Independent House,4,5,1820.8,2556.1,1,35,2,12.8,9.2,2.6,True,True,Good,Electric,19004429.54
+124,2024-07-27,Nashik,Nashik,Villa,4,4,2045.7,3778.6,2,29,2,11.2,5.6,3.5,True,False,Excellent,Solar,20041051.43
+125,2025-11-01,Thane,Thane,Villa,3,3,2040.2,4914.0,3,35,3,12.5,2.8,2.7,True,False,Fair,Electric,19269458.12
+126,2025-11-15,Mumbai,Mumbai,Apartment,4,4,2200.6,4678.1,2,10,1,6.5,5.9,2.6,True,True,Poor,Gas,22265311.32
+127,2024-01-07,Mumbai,Mumbai,Villa,4,3,1699.3,2389.5,2,0,2,3.4,6.7,4.8,False,False,Excellent,Gas,17022470.95
+128,2024-07-15,Pune,Pune,Villa,2,1,1106.1,2475.8,3,32,3,32.4,9.2,2.3,True,True,Fair,Electric,10476355.5
+129,2025-01-23,Nagpur,Nagpur,Villa,3,3,1556.5,2242.2,3,36,1,12.7,8.5,2.2,True,True,Excellent,Solar,15319795.17
+130,2024-03-17,Mumbai,Mumbai,Villa,3,3,1806.1,3417.4,1,21,0,10.0,9.1,4.1,False,False,Excellent,Gas,17305386.09
+131,2024-05-23,Nagpur,Nagpur,Independent House,2,3,1891.7,4073.1,3,9,3,37.2,3.7,3.7,False,False,Excellent,Solar,17790506.36
+132,2024-12-30,Pune,Pune,Villa,1,1,1486.9,3381.3,2,14,3,38.8,3.9,3.9,False,False,Poor,Gas,13202369.14
+133,2025-01-04,Nashik,Nashik,Apartment,1,2,1185.7,2629.1,3,18,0,4.2,2.4,4.1,True,False,Fair,Electric,11250827.14
+134,2024-10-25,Mumbai,,Apartment,1,1,1247.4,,3,11,3,5.0,,,False,False,Good,,11975273.62
+135,2024-09-14,Nashik,Nashik,Independent House,1,1,746.4,1135.6,2,17,1,3.5,4.9,3.3,False,True,Poor,Solar,7451838.66
+136,2025-09-09,Nashik,Nashik,Apartment,1,1,1088.8,2644.1,2,0,3,32.4,4.0,3.0,True,False,Poor,Electric,10153417.93
+137,2024-07-23,Thane,Thane,Independent House,3,3,1721.3,3076.7,3,40,1,13.7,3.5,4.4,False,True,Good,Solar,17291424.89
+138,2024-09-04,Nashik,Nashik,Apartment,4,4,1512.9,2592.9,2,13,0,32.9,8.2,3.2,False,True,Poor,Electric,15432476.1
+139,2025-11-04,Pune,Pune,Apartment,5,6,2867.1,5298.8,3,25,3,22.2,8.1,3.1,True,True,Excellent,Solar,29023558.73
+140,2025-02-04,Nashik,Nashik,Independent House,4,4,2248.2,2806.5,1,27,2,9.7,7.7,3.7,True,False,Good,Electric,21970393.89
+141,2024-04-09,Nagpur,Nagpur,Independent House,4,4,2074.1,2618.5,3,5,1,14.6,4.1,4.4,False,False,Poor,Electric,20675734.85
+142,2024-06-12,Thane,Thane,Villa,4,3,1637.9,3748.9,3,1,0,27.4,2.5,5.0,True,True,Poor,Gas,17464393.57
+143,2025-12-21,Nashik,,Apartment,2,3,1708.3,,3,27,1,18.5,,,True,True,Excellent,,16336000.5
+144,2025-09-24,Nagpur,Nagpur,Independent House,3,2,1671.4,3407.9,2,16,2,24.3,6.5,3.8,False,False,Fair,Solar,16160021.19
+145,2024-07-09,Nagpur,Nagpur,Independent House,1,1,870.0,1328.9,1,15,2,28.0,5.6,3.3,True,False,Good,Solar,7934332.13
+146,2025-03-01,Nagpur,Nagpur,Villa,2,2,1706.0,3355.9,2,28,0,19.9,2.8,3.2,False,False,Poor,Gas,16129360.11
+147,2024-04-26,Thane,Thane,Independent House,2,2,1608.7,2388.6,3,2,2,7.6,5.1,4.2,False,True,Fair,Solar,16074412.63
+148,2024-12-22,Nashik,Nashik,Apartment,4,4,1564.2,2199.2,2,34,0,29.7,6.9,2.7,True,False,Poor,Gas,15417493.02
+149,2024-12-25,Thane,Thane,Independent House,4,5,1559.0,3594.1,3,22,3,7.5,2.3,2.6,True,True,Good,Electric,16552903.07
+150,2025-12-19,Pune,Pune,Apartment,4,4,1912.4,4742.2,3,32,0,6.3,7.8,3.2,True,False,Good,Solar,18866128.45
+151,2024-10-11,Thane,Thane,Villa,3,3,1335.0,1734.2,3,31,2,25.5,4.4,2.2,True,False,Poor,Electric,13298016.46
+152,2024-10-01,Nagpur,Nagpur,Villa,3,2,1483.6,2950.5,3,29,2,34.2,8.2,3.2,False,True,Fair,Solar,14303859.21
+153,2024-07-26,Nagpur,Nagpur,Apartment,1,1,929.8,1082.6,3,3,3,1.6,9.4,2.5,False,True,Fair,Gas,8904623.09
+154,2025-12-21,Mumbai,Mumbai,Apartment,3,4,2220.6,3221.1,2,23,1,3.0,6.6,4.2,True,False,Poor,Gas,21264991.23
+155,2024-04-01,Nagpur,Nagpur,Apartment,4,4,1740.7,1934.4,2,0,0,39.5,4.8,2.4,True,True,Excellent,Electric,18229969.72
+156,2025-09-22,Nagpur,Nagpur,Apartment,2,1,1216.1,1454.2,3,9,0,24.8,2.5,3.1,True,True,Excellent,Gas,12533869.95
+157,2024-07-29,Nashik,Nashik,Independent House,4,4,1663.4,4072.9,2,22,1,10.7,6.8,2.7,False,True,Good,Solar,17081988.15
+158,2025-08-05,Nagpur,Nagpur,Independent House,1,1,939.6,1181.9,2,24,0,21.6,9.8,5.0,False,True,Good,Electric,9162710.02
+159,2025-12-19,Nagpur,Nagpur,Independent House,3,4,2322.8,2599.9,1,4,0,37.0,9.5,3.2,False,False,Good,Electric,21875014.38
+160,2024-03-29,Pune,Pune,Apartment,2,1,1675.5,2609.6,3,34,0,13.1,4.9,4.9,True,True,Poor,Solar,16344797.37
+161,2024-05-09,Nashik,Nashik,Villa,3,4,1166.6,1478.3,3,11,1,28.4,2.5,4.9,False,True,Excellent,Gas,12452098.18
+162,2024-09-18,Pune,Pune,Independent House,3,2,1230.4,2580.4,3,16,0,20.3,5.6,2.2,True,False,Excellent,Gas,12443952.85
+163,2024-09-11,Nashik,Nashik,Independent House,1,1,1497.9,2637.1,2,2,1,8.0,9.6,2.1,False,True,Fair,Electric,14079834.37
+164,2024-03-29,Nashik,Nashik,Apartment,2,3,1799.2,2430.8,3,3,0,38.2,1.6,3.4,False,False,Fair,Gas,16878596.62
+165,2025-02-23,Mumbai,Mumbai,Independent House,3,4,1273.6,2228.2,3,15,3,39.9,8.0,4.2,True,True,Fair,Solar,13866609.62
+166,2025-12-29,Pune,Pune,Apartment,4,3,2046.4,4683.4,3,24,2,5.1,5.8,2.7,False,True,Good,Solar,19766736.92
+167,2024-08-30,Pune,Pune,Villa,1,2,591.8,1132.2,3,5,1,25.9,4.5,3.8,True,False,Poor,Solar,6478780.75
+168,2024-11-17,Nagpur,Nagpur,Independent House,3,3,1718.7,2070.3,1,14,1,31.4,6.3,2.5,True,False,Fair,Gas,16447227.88
+169,2025-06-09,Nagpur,Nagpur,Villa,1,1,967.4,2157.9,2,10,0,9.4,8.7,2.4,True,False,Fair,Gas,9167290.18
+170,2025-02-14,Pune,Pune,Independent House,3,4,1999.3,2898.6,2,35,0,32.4,2.3,2.0,True,True,Excellent,Solar,19789230.28
+171,2025-04-17,Mumbai,Mumbai,Independent House,1,1,542.8,747.4,3,4,3,32.6,1.8,4.5,False,True,Poor,Solar,5514249.8
+172,2025-02-25,Nagpur,Nagpur,Villa,3,3,1403.3,2239.1,1,11,2,11.9,9.0,2.1,True,False,Excellent,Gas,13951105.21
+173,2025-05-29,Thane,Thane,Villa,1,2,1449.5,2100.0,3,33,0,39.6,8.0,3.1,False,False,Good,Gas,12924380.67
+174,2025-08-12,Pune,Pune,Villa,2,1,1352.6,2490.3,3,30,1,39.0,1.9,4.0,False,True,Fair,Gas,13129491.1
+175,2024-11-12,Thane,Thane,Apartment,4,5,1800.0,4283.3,1,22,2,38.0,6.1,3.7,True,False,Excellent,Gas,18414724.73
+176,2024-05-31,Mumbai,Mumbai,Apartment,4,4,1538.3,2406.5,3,0,1,32.5,4.1,2.5,False,True,Excellent,Solar,16274161.9
+177,2024-06-27,Nashik,Nashik,Independent House,4,5,2314.5,4444.9,2,25,2,13.6,9.8,4.2,False,False,Fair,Gas,21864109.97
+178,2024-11-21,Thane,Thane,Independent House,2,2,1035.5,1323.6,3,18,0,38.0,9.5,3.2,True,True,Good,Solar,9839422.72
+179,2024-09-28,Mumbai,Mumbai,Independent House,1,1,423.6,607.1,2,4,1,25.8,9.7,4.5,False,False,Excellent,Electric,3676939.18
+180,2025-08-14,Nagpur,Nagpur,Independent House,1,1,1490.0,2553.1,2,24,1,35.5,5.4,3.1,False,True,Good,Gas,13878337.88
+181,2025-08-31,Nashik,Nashik,Villa,1,1,645.7,998.4,1,1,0,14.3,9.0,2.5,True,True,Excellent,Electric,6915260.05
+182,2024-08-31,Nashik,Nashik,Villa,3,2,1780.8,2211.4,1,3,1,17.0,6.0,4.8,False,False,Poor,Gas,17228854.41
+183,2024-11-11,Mumbai,Mumbai,Villa,2,2,1541.2,2990.4,1,40,0,2.0,2.5,2.9,True,False,Poor,Solar,14724439.25
+184,2024-03-04,Thane,Thane,Independent House,2,1,1432.5,3351.7,2,23,1,18.4,3.4,3.4,True,False,Excellent,Gas,14061947.02
+185,2024-03-21,Nashik,Nashik,Independent House,2,3,1053.0,1974.4,2,14,3,38.7,7.2,4.8,True,False,Excellent,Solar,10025333.88
+186,2025-03-09,Mumbai,Mumbai,Independent House,2,3,956.3,1249.4,2,39,1,38.0,2.5,2.6,True,True,Poor,Gas,9620312.56
+187,2025-12-18,Mumbai,Mumbai,Independent House,5,5,2202.3,5230.8,1,20,0,16.1,4.6,3.0,False,False,Poor,Gas,21922605.13
+188,2025-11-01,Nagpur,Nagpur,Independent House,3,4,1256.7,3009.8,3,6,0,31.6,8.8,4.6,False,False,Poor,Gas,12711716.26
+189,2024-11-06,Nashik,Nashik,Villa,4,5,1738.5,2006.7,2,25,1,2.9,5.3,2.8,False,True,Excellent,Gas,18226316.1
+190,2025-06-11,Mumbai,Mumbai,Apartment,4,4,2398.3,5085.1,3,17,0,8.3,2.9,4.5,False,False,Fair,Solar,24158200.26
+191,2025-04-20,Nashik,Nashik,Independent House,3,4,1230.3,1652.5,1,1,0,10.7,5.1,4.8,True,False,Excellent,Solar,13168489.5
+192,2025-01-30,Mumbai,Mumbai,Independent House,4,4,1973.8,4825.4,2,11,2,14.4,8.5,2.8,True,False,Good,Gas,19665533.81
+193,2025-09-14,Nashik,Nashik,Villa,2,3,1047.8,1905.5,3,26,0,19.5,2.2,2.5,True,True,Fair,Electric,10624213.53
+194,2025-12-01,Nashik,Nashik,Apartment,4,4,2273.5,3986.4,3,13,3,23.8,1.1,5.0,False,False,Fair,Electric,22116014.41
+195,2024-01-27,Pune,Pune,Villa,1,2,869.1,1185.3,3,19,1,36.1,8.2,4.4,False,False,Fair,Electric,7445283.52
+196,2025-11-04,Pune,Pune,Apartment,2,3,825.5,1851.2,2,36,1,27.8,6.7,3.4,False,False,Fair,Gas,8093323.15
+197,2024-09-23,Nashik,Nashik,Villa,2,3,692.0,1678.7,2,11,0,9.7,3.0,4.6,False,False,Excellent,Electric,7566367.44
+198,2024-07-24,Pune,Pune,Independent House,5,6,2169.3,3820.4,1,4,0,34.8,4.4,2.9,True,True,Poor,Gas,22826875.46
+199,2024-03-31,Nagpur,Nagpur,Villa,1,1,1178.8,2338.0,1,21,2,25.7,1.0,2.8,True,True,Poor,Electric,12001817.5
+200,2024-08-19,Pune,Pune,Villa,1,1,986.1,1360.0,2,34,0,35.8,7.8,3.6,True,True,Fair,Gas,9424175.56
+201,2025-05-16,Nashik,Nashik,Apartment,3,2,1972.6,4445.0,2,4,2,18.8,5.7,3.6,False,True,Good,Electric,19593708.87
+202,2024-02-19,Thane,Thane,Independent House,2,1,1853.8,3569.6,1,1,0,15.3,6.9,2.1,False,True,Excellent,Gas,17706946.37
+203,2024-10-03,Thane,Thane,Independent House,2,1,1308.1,1901.8,3,35,1,9.0,7.2,2.0,False,True,Good,Electric,12008449.1
+204,2024-10-29,Nagpur,Nagpur,Independent House,4,5,1614.3,2414.6,1,7,3,8.7,2.8,2.8,True,False,Poor,Gas,16852797.71
+205,2025-04-12,Pune,Pune,Villa,1,1,1283.3,2618.3,1,0,3,6.8,1.8,3.5,True,False,Fair,Electric,12223899.62
+206,2025-11-10,Pune,Pune,Villa,3,3,2370.9,5268.7,2,23,3,29.8,1.9,4.3,True,True,Fair,Electric,23500105.29
+207,2025-10-26,Nagpur,Nagpur,Apartment,4,3,1879.6,4212.1,1,23,0,16.6,9.7,2.8,False,False,Excellent,Gas,17934269.77
+208,2025-05-14,Nagpur,Nagpur,Villa,1,1,1442.3,3426.5,2,26,3,8.1,4.4,3.1,True,True,Poor,Gas,13801485.94
+209,2025-05-08,Pune,Pune,Independent House,3,4,2172.4,4724.0,3,33,1,39.1,7.0,3.0,True,False,Poor,Gas,20785468.72
+210,2024-12-04,Pune,Pune,Apartment,4,3,1839.2,3679.9,1,0,3,34.2,8.8,2.2,False,False,Good,Solar,17465996.13
+211,2025-02-17,Mumbai,Mumbai,Independent House,1,1,1184.4,2039.3,3,29,3,4.4,5.5,2.9,False,True,Excellent,Gas,10956381.31
+212,2025-07-27,Nashik,Nashik,Independent House,4,4,1833.4,3460.2,3,32,3,38.1,4.3,2.2,True,False,Poor,Solar,17200511.72
+213,2025-02-23,Pune,Pune,Independent House,1,1,1063.1,1172.7,2,14,2,22.4,4.4,2.3,True,False,Good,Gas,9546690.21
+214,2025-11-05,Nagpur,Nagpur,Independent House,3,3,2209.6,4647.9,1,12,3,2.8,6.7,4.0,True,False,Good,Electric,21946796.43
+215,2025-09-12,Thane,Thane,Independent House,5,5,2316.0,4113.4,3,37,1,28.0,2.6,4.4,True,False,Poor,Electric,23132112.78
+216,2025-10-09,Thane,Thane,Apartment,4,4,2603.4,6375.8,2,25,3,32.4,2.2,3.8,False,False,Fair,Solar,24915935.83
+217,2024-01-14,Nagpur,Nagpur,Apartment,3,4,1079.0,1948.1,3,11,2,28.7,7.8,3.7,False,False,Poor,Gas,11309303.9
+218,2024-04-14,Nagpur,Nagpur,Independent House,3,2,1661.3,3416.9,1,18,0,27.9,3.7,4.3,True,False,Good,Solar,16281125.24
+219,2024-09-14,Mumbai,Mumbai,Villa,3,4,1201.1,2486.4,1,18,3,16.1,9.6,4.9,False,True,Good,Solar,12351327.17
+220,2024-05-02,Thane,Thane,Villa,3,4,1296.9,1783.3,3,38,1,12.5,2.6,4.0,True,True,Fair,Solar,13331310.17
+221,2025-07-17,Thane,Thane,Independent House,2,1,1473.5,2582.9,1,21,0,7.0,3.9,2.2,False,False,Fair,Solar,13878819.66
+222,2024-10-27,Nashik,Nashik,Independent House,2,3,1559.8,2624.1,3,10,3,4.6,3.0,2.6,False,False,Poor,Solar,15340036.16
+223,2025-07-07,Nashik,Nashik,Apartment,3,2,2129.3,3670.8,3,22,1,38.4,7.1,3.0,True,False,Fair,Solar,19238220.62
+224,2025-11-17,Pune,Pune,Apartment,2,2,1676.9,2596.6,1,12,0,7.5,9.6,3.6,True,True,Poor,Gas,16209260.02
+225,2025-07-25,Nashik,Nashik,Apartment,4,4,1758.8,3773.7,1,4,0,18.9,4.0,2.3,True,True,Fair,Electric,18951744.72
+226,2025-05-29,Nashik,Nashik,Independent House,1,1,962.2,1583.1,1,1,0,26.0,6.6,4.3,True,True,Fair,Solar,10058287.16
+227,2025-11-24,Nashik,Nashik,Independent House,4,4,2228.6,5016.5,1,25,3,7.1,3.0,4.2,False,True,Fair,Gas,22645519.3
+228,2025-10-23,Nagpur,Nagpur,Apartment,1,1,899.3,1710.3,2,0,0,12.9,7.7,4.7,False,True,Good,Gas,8923833.87
+229,2025-11-18,Nashik,Nashik,Apartment,2,1,1673.2,3412.2,3,11,0,34.2,9.4,5.0,False,True,Good,Solar,16441164.13
+230,2025-08-03,Thane,Thane,Villa,1,1,424.2,526.0,3,15,0,36.1,3.9,3.4,False,True,Poor,Gas,4018345.5
+231,2025-05-13,Nashik,Nashik,Apartment,2,3,1875.7,2789.9,2,27,1,27.5,4.0,3.4,False,False,Excellent,Electric,17548348.88
+232,2024-08-05,Thane,Thane,Independent House,4,3,1673.3,3559.1,3,16,0,29.4,9.0,4.5,True,False,Fair,Solar,16498162.05
+233,2025-09-20,Pune,Pune,Independent House,4,3,1989.7,3282.0,3,23,2,6.2,5.5,2.3,False,True,Good,Electric,19524271.6
+234,2024-02-13,Pune,Pune,Independent House,4,5,1849.0,3938.9,2,9,2,2.6,7.9,2.7,False,False,Fair,Electric,18881358.72
+235,2025-01-09,Nagpur,Nagpur,Apartment,1,1,959.4,1193.9,3,20,2,33.6,3.4,3.6,True,False,Fair,Electric,9050872.74
+236,2024-06-02,Pune,Pune,Villa,3,3,1849.9,3295.7,2,22,0,20.6,2.3,2.5,True,False,Excellent,Solar,18011466.91
+237,2025-08-10,Pune,Pune,Apartment,4,3,1612.5,3298.0,2,30,1,24.0,6.8,3.2,True,True,Excellent,Solar,16945648.76
+238,2025-09-13,Nagpur,Nagpur,Villa,2,3,1682.1,3261.7,3,25,0,35.3,7.6,4.5,True,True,Good,Gas,16624733.36
+239,2025-01-29,Nagpur,Nagpur,Apartment,4,3,1827.8,3698.6,2,39,1,29.2,4.1,3.4,True,True,Good,Solar,17952454.08
+240,2025-09-09,Pune,Pune,Apartment,3,2,1876.4,2317.1,2,38,0,35.2,5.8,4.3,True,False,Poor,Solar,17431552.05
+241,2024-09-17,Pune,Pune,Apartment,2,3,604.7,859.4,2,27,3,14.7,8.2,4.7,True,False,Excellent,Electric,6742258.67
+242,2024-04-19,Nashik,Nashik,Independent House,1,1,989.3,2070.5,1,0,0,21.3,4.4,2.6,False,False,Fair,Electric,9013405.47
+243,2024-11-10,Nashik,,Independent House,3,4,1821.6,,2,17,1,17.1,,,False,False,Poor,,17354645.49
+244,2025-10-13,Nagpur,nagpur,Apartment,3,4,2145.7,3701.9,3,14,1,4.9,5.6,4.4,True,True,Good,Electric,22169529.33
+245,2025-10-17,Pune,Pune,Apartment,2,2,1977.6,3202.1,3,14,0,29.3,9.4,3.2,False,True,Good,Solar,18501693.84
+246,2024-10-09,Mumbai,Mumbai,Villa,3,2,2047.9,3716.5,3,38,1,25.0,7.1,3.1,True,True,Poor,Electric,19513503.5
+247,2025-09-12,Pune,Pune,Villa,2,3,982.3,2344.7,3,4,2,29.3,6.0,3.7,False,False,Poor,Solar,9571482.45
+248,2025-07-30,Nagpur,Nagpur,Apartment,4,3,1810.0,2174.5,2,35,2,37.9,8.2,4.9,False,False,Fair,Electric,17271799.37
+249,2024-09-11,Nashik,Nashik,Villa,1,1,1056.2,1543.1,2,7,1,27.4,3.1,2.9,False,True,Fair,Gas,9681161.74
+250,2024-09-04,Pune,Pune,Apartment,2,2,1204.7,2833.5,2,13,1,37.9,7.1,4.7,False,True,Good,Gas,11820117.42
+251,2025-09-27,Nashik,Nashik,Independent House,3,2,1983.9,2515.3,1,6,3,24.9,7.9,3.6,True,False,Fair,Electric,18590088.34
+252,2025-12-03,Nagpur,Nagpur,Villa,4,4,1848.0,2607.4,3,25,1,3.1,8.2,3.4,True,False,Excellent,Solar,18921134.87
+253,2025-04-27,Nashik,Nashik,Villa,1,1,1067.4,1741.1,1,13,2,15.1,8.8,2.6,False,True,Fair,Gas,10050459.78
+254,2024-08-29,Nashik,Nashik,Villa,3,3,1156.2,2654.7,2,23,3,8.0,2.2,3.7,True,True,Good,Gas,12542488.47
+255,2025-12-08,Mumbai,Mumbai,Apartment,3,2,1753.3,2963.2,1,11,2,31.6,3.7,3.7,True,False,Fair,Electric,16616073.45
+256,2024-12-29,Nashik,Nashik,Independent House,4,4,1619.3,2599.6,3,16,2,14.4,4.7,3.1,True,True,Poor,Solar,16950577.75
+257,2024-06-14,Mumbai,Mumbai,Villa,3,3,1309.1,2597.7,1,29,1,26.0,9.4,3.3,False,True,Fair,Solar,12986351.66
+258,2024-08-03,Mumbai,Mumbai,Apartment,3,3,1398.6,3276.7,2,17,3,17.1,2.7,2.1,True,False,Excellent,Gas,14265511.98
+259,2024-09-10,Pune,Pune,Villa,3,2,2022.0,3707.5,1,25,0,11.2,2.4,4.0,False,False,Good,Gas,19159890.12
+260,2024-06-30,Thane,Thane,Villa,1,2,1198.5,2761.9,2,22,3,19.2,8.8,4.8,False,True,Poor,Solar,11473618.17
+261,2024-05-19,Thane,Thane,Villa,2,2,1105.6,1567.8,1,34,3,13.0,4.7,2.5,True,True,Excellent,Solar,10840375.78
+262,2024-06-16,Pune,Pune,Independent House,5,5,2569.4,5581.4,2,0,1,32.1,5.9,2.6,False,False,Poor,Electric,24927005.92
+263,2024-07-05,Mumbai,,Apartment,4,3,1537.3,,3,33,2,12.1,,,False,True,Poor,,15694679.76
+264,2024-04-02,Pune,Pune,Villa,1,1,757.6,853.9,1,20,0,8.3,1.9,2.8,False,True,Good,Electric,7756209.15
+265,2025-07-10,Mumbai,Mumbai,Apartment,1,1,730.3,1515.8,1,29,2,4.1,7.8,2.4,False,False,Fair,Electric,6699456.06
+266,2025-02-02,Nagpur,Nagpur,Villa,4,3,1620.4,3532.0,2,24,1,29.8,1.3,3.4,True,True,Fair,Gas,16665648.86
+267,2025-10-10,Pune,Pune,Apartment,3,4,1398.9,2035.0,3,7,2,8.8,9.0,4.6,True,True,Good,Electric,14843628.86
+268,2024-04-03,Nagpur,Nagpur,Villa,1,1,1067.5,2042.6,3,2,3,27.8,2.4,4.3,True,True,Excellent,Gas,10756543.94
+269,2024-09-13,Pune,Pune,Villa,3,2,1322.1,2357.2,2,8,2,32.4,4.9,2.6,False,False,Poor,Solar,12906391.54
+270,2024-06-07,Thane,Thane,Villa,1,2,1285.8,2392.9,2,11,3,11.7,8.5,4.7,True,True,Fair,Electric,13280223.15
+271,2025-11-30,Thane,Thane,Independent House,4,5,2212.8,5169.3,3,11,2,31.3,3.1,4.2,False,True,Good,Solar,22404117.28
+272,2024-07-15,Nagpur,Nagpur,Independent House,2,1,1393.9,2554.3,1,6,0,33.6,2.2,4.6,True,True,Poor,Solar,14370426.54
+273,2025-01-04,Mumbai,Mumbai,Villa,2,2,802.1,1293.7,3,3,0,1.5,9.3,4.0,True,False,Fair,Solar,8420378.77
+274,2025-06-22,Pune,Pune,Independent House,5,4,2146.7,4869.2,1,4,1,38.5,1.9,4.2,False,True,Good,Solar,22149177.23
+275,2025-06-30,Pune,,Villa,1,2,1497.4,,2,36,3,35.4,,,False,False,Fair,,13096663.93
+276,2025-04-03,Nagpur,Nagpur,Apartment,1,1,300.0,510.8,3,40,2,24.7,6.1,2.6,False,False,Excellent,Electric,1992841.19
+277,2024-02-08,Mumbai,Mumbai,Apartment,2,1,1002.3,2483.8,1,19,2,1.8,8.4,4.1,False,True,Good,Electric,9802579.97
+278,2024-04-07,Thane,Thane,Villa,1,1,1056.7,1298.4,2,19,1,29.6,7.5,4.4,True,False,Excellent,Solar,10088360.78
+279,2024-11-08,Mumbai,Mumbai,Villa,2,2,1675.7,3907.2,2,22,3,37.3,2.1,4.3,True,False,Good,Electric,15728590.29
+280,2025-05-02,Mumbai,Mumbai,Apartment,1,2,1146.9,2820.6,3,25,0,9.7,3.6,3.2,True,False,Poor,Electric,10986469.91
+281,2024-09-29,Mumbai,Mumbai,Villa,5,4,2007.9,3560.6,1,8,3,16.4,6.1,3.7,True,True,Excellent,Gas,21132596.42
+282,2024-02-15,Nagpur,Nagpur,Apartment,2,1,1252.2,1981.5,3,20,0,31.0,2.5,3.0,False,True,Good,Solar,11857537.45
+283,2025-04-27,Nagpur,Nagpur,Apartment,1,1,909.1,1309.3,3,3,1,34.9,8.4,2.0,True,False,Good,Gas,8727627.73
+284,2024-10-17,Mumbai,Mumbai,Independent House,2,2,702.2,1490.0,1,39,0,15.7,9.2,3.6,False,True,Fair,Gas,6834117.75
+285,2025-06-04,Nagpur,Nagpur,Apartment,1,1,324.2,657.5,3,17,2,34.7,1.2,4.6,False,True,Fair,Electric,3873399.82
+286,2024-01-19,Pune,Pune,Villa,2,1,1912.3,4691.9,3,32,0,2.6,9.3,2.9,False,False,Fair,Solar,17055627.58
+287,2024-03-30,Pune,Pune,Independent House,2,2,963.6,1904.1,2,3,0,37.8,9.5,2.7,False,False,Good,Electric,9987643.29
+288,2025-12-06,Nashik,Nashik,Independent House,3,4,1517.4,2623.4,1,21,1,26.4,6.2,4.1,True,True,Good,Electric,15850242.64
+289,2024-11-22,Mumbai,Mumbai,Villa,4,5,2863.4,6826.2,2,36,0,22.7,9.5,2.4,False,True,Poor,Electric,27446414.67
+290,2024-08-25,Thane,Thane,Apartment,1,2,408.9,536.8,1,17,0,6.1,1.2,5.0,False,True,Fair,Gas,5248912.25
+291,2025-02-22,Mumbai,Mumbai,Apartment,3,4,1284.4,2693.1,2,30,1,34.2,5.4,2.4,True,True,Fair,Electric,12921610.1
+292,2025-09-14,Mumbai,Mumbai,Villa,2,1,1628.0,2194.4,2,4,3,27.8,8.8,4.7,False,False,Fair,Electric,15584823.07
+293,2025-07-04,Thane,Thane,Independent House,2,3,870.4,1739.0,3,33,0,21.3,5.1,4.5,True,True,Excellent,Solar,9002053.22
+294,2025-10-23,Nagpur,Nagpur,Independent House,1,1,853.1,1463.5,2,18,2,19.0,4.8,3.8,True,True,Excellent,Gas,8990252.29
+295,2024-09-13,Mumbai,Mumbai,Independent House,4,5,1711.6,2824.7,2,8,3,2.0,5.1,4.7,True,False,Good,Solar,17283803.87
+296,2025-01-24,Thane,Thane,Apartment,3,3,1477.0,2375.3,3,40,3,29.3,9.8,3.8,True,False,Fair,Solar,13959956.68
+297,2024-05-14,Mumbai,Mumbai,Apartment,3,2,2188.0,4762.8,1,11,3,13.0,7.6,4.9,False,True,Fair,Gas,20874372.96
+298,2025-07-14,Pune,Pune,Independent House,2,1,549.7,1284.0,1,38,1,24.0,5.3,3.2,True,True,Good,Gas,5943777.94
+299,2025-09-17,Nashik,Nashik,Independent House,3,2,1567.0,3596.8,3,9,2,13.9,1.8,2.3,True,True,Good,Electric,16161519.47
+300,2025-12-12,Mumbai,Mumbai,Villa,1,1,1498.0,2324.9,2,19,0,30.6,8.6,2.2,False,True,Poor,Solar,13397705.71
+301,2024-11-20,Thane,Thane,Independent House,2,1,1585.5,3363.8,3,36,0,19.9,7.2,4.8,False,False,Fair,Gas,14649293.8
+302,2024-07-31,Mumbai,Mumbai,Villa,3,4,1059.0,1895.0,1,31,1,28.6,9.8,2.0,True,False,Poor,Gas,10258581.27
+303,2025-12-03,Mumbai,Mumbai,Villa,3,2,1177.9,2352.0,3,0,2,10.9,1.6,2.9,False,True,Excellent,Gas,12834368.21
+304,2024-02-27,Nagpur,Nagpur,Villa,4,4,1826.4,4047.6,3,30,1,19.8,6.6,4.7,False,False,Fair,Solar,18463077.76
+305,2025-09-01,Pune,Pune,Villa,3,3,1166.9,1391.8,1,22,2,33.8,4.1,3.1,True,False,Fair,Solar,11693656.49
+306,2025-03-30,Mumbai,Mumbai,Villa,4,3,2006.7,3476.9,2,23,1,21.5,2.6,3.1,True,True,Good,Gas,20341084.99
+307,2024-02-15,Nashik,Nashik,Independent House,3,3,1191.7,1549.9,1,20,1,9.0,1.3,3.2,True,True,Excellent,Electric,13181246.87
+308,2024-10-06,Mumbai,Mumbai,Villa,3,4,1349.6,1527.1,2,19,1,13.5,2.7,2.8,False,False,Excellent,Gas,13590737.16
+309,2024-11-14,Mumbai,Mumbai,Villa,3,2,2118.5,3369.4,2,34,2,6.5,7.3,2.8,True,True,Poor,Gas,20407035.29
+310,2024-12-06,Nashik,Nashik,Independent House,4,3,1885.9,3087.3,1,6,3,16.3,7.3,4.7,False,False,Excellent,Electric,18872050.52
+311,2024-07-06,Nagpur,Nagpur,Independent House,3,3,1298.9,2257.3,3,6,3,19.4,9.5,2.4,False,False,Fair,Electric,12616467.4
+312,2024-11-29,Mumbai,Mumbai,Apartment,2,1,1381.3,2445.1,1,22,2,30.9,6.4,2.4,True,False,Fair,Solar,12834608.0
+313,2024-12-16,Thane,Thane,Apartment,1,2,851.8,1590.4,2,15,3,3.6,2.9,4.1,False,False,Good,Solar,8467652.67
+314,2025-09-04,Mumbai,Mumbai,Independent House,3,4,1103.2,1390.1,3,31,3,13.7,1.9,3.3,False,False,Poor,Electric,10831307.54
+315,2025-08-14,Thane,Thane,Apartment,1,1,765.9,1793.8,3,8,0,30.5,6.9,3.4,False,False,Fair,Electric,6978581.13
+316,2025-07-16,Nashik,Nashik,Apartment,1,1,500.5,1244.6,3,22,0,24.8,5.6,4.5,False,True,Fair,Gas,4813451.78
+317,2024-07-11,Pune,Pune,Villa,3,3,2144.7,3542.9,2,37,3,16.8,4.9,2.6,True,False,Poor,Gas,19933738.38
+318,2025-10-19,Pune,Pune,Villa,1,1,1257.0,1508.9,1,0,1,29.1,5.4,3.3,True,True,Poor,Solar,12973224.03
+319,2025-07-13,Nagpur,,Apartment,4,4,1754.8,,1,24,3,24.6,,,True,False,Excellent,,17950599.46
+320,2025-10-07,Nagpur,Nagpur,Independent House,3,3,1023.2,1329.0,3,5,2,19.1,1.7,4.7,True,True,Excellent,Solar,11657787.94
+321,2024-10-28,Nashik,Nashik,Apartment,1,2,903.0,2135.6,3,3,0,19.3,5.6,3.4,False,False,Fair,Solar,8249369.19
+322,2024-03-19,Thane,Thane,Villa,4,4,1584.8,2118.4,1,37,2,32.5,6.6,2.9,True,True,Fair,Gas,15915578.33
+323,2025-06-24,Pune,Pune,Villa,2,1,1200.4,2335.2,3,7,1,26.7,4.3,2.5,True,False,Excellent,Gas,11406584.3
+324,2024-06-20,Mumbai,Mumbai,Villa,1,1,733.8,1051.6,2,24,1,9.2,7.6,3.0,False,True,Fair,Electric,6757478.03
+325,2025-11-25,Nagpur,Nagpur,Independent House,3,2,1479.8,3043.8,2,24,3,11.2,5.8,3.3,False,False,Excellent,Gas,13685007.89
+326,2024-12-11,Thane,Thane,Apartment,4,5,2119.1,3324.8,2,17,0,11.0,6.3,3.4,True,True,Fair,Solar,21520926.82
+327,2024-04-04,Thane,Thane,Independent House,2,1,1565.1,1935.7,1,26,3,14.7,7.5,2.8,True,True,Good,Solar,15056455.69
+328,2024-10-10,Nagpur,Nagpur,Independent House,1,1,992.6,1272.4,3,38,1,35.9,7.3,2.8,False,True,Fair,Electric,8560468.66
+329,2025-02-06,Thane,Thane,Villa,2,2,1603.0,2509.8,1,24,2,38.3,3.4,3.3,False,True,Excellent,Gas,15444098.64
+330,2025-05-24,Mumbai,Mumbai,Independent House,2,3,986.0,2344.4,3,6,2,5.0,1.7,3.7,False,False,Excellent,Gas,10138778.16
+331,2025-01-28,Mumbai,Mumbai,Villa,3,3,1298.8,2473.6,3,25,3,19.6,4.6,4.2,True,True,Excellent,Solar,13405254.05
+332,2024-06-29,Pune,Pune,Villa,1,2,300.0,498.3,3,19,0,15.2,8.7,3.0,False,False,Good,Electric,2623932.75
+333,2024-03-05,Nagpur,Nagpur,Independent House,3,4,1144.9,2039.1,3,22,3,29.7,2.3,2.6,True,False,Fair,Electric,11219367.53
+334,2024-08-26,Thane,Thane,Apartment,1,1,573.5,903.3,2,2,0,16.8,2.9,4.0,False,True,Good,Electric,6098196.98
+335,2024-06-23,Thane,Thane,Apartment,3,2,1179.3,2455.1,1,15,0,7.7,1.4,2.9,True,False,Excellent,Gas,11853179.48
+336,2024-02-16,Pune,Pune,Villa,1,1,604.2,1025.2,3,12,3,13.6,9.8,3.7,True,False,Excellent,Gas,5811723.26
+337,2025-05-13,Mumbai,Mumbai,Apartment,1,2,1374.1,2576.1,2,23,1,37.1,1.4,2.3,False,True,Good,Gas,13510344.78
+338,2024-07-03,Thane,Thane,Independent House,2,2,1319.8,2731.1,1,30,1,26.0,5.7,3.2,True,True,Excellent,Solar,12615612.9
+339,2024-10-10,Pune,Pune,Apartment,3,2,1695.7,2424.7,1,35,0,25.1,8.8,5.0,True,False,Good,Solar,15919973.79
+340,2024-04-16,Mumbai,Mumbai,Independent House,4,3,2111.9,4304.4,1,10,0,26.1,3.6,3.3,False,False,Good,Gas,19996768.4
+341,2024-08-21,Nashik,Nashik,Independent House,2,1,1627.4,3433.8,3,15,2,17.3,7.7,4.7,True,True,Poor,Gas,15596541.95
+342,2024-07-17,Nagpur,Nagpur,Villa,2,3,1249.5,1469.5,2,31,1,9.4,6.5,2.5,False,True,Good,Electric,12460888.66
+343,2024-06-23,Thane,Thane,Independent House,3,3,2035.2,2555.3,2,8,3,17.3,7.8,2.7,False,True,Good,Gas,20233604.81
+344,2024-08-15,Thane,Thane,Independent House,1,2,983.8,2235.0,2,30,0,29.5,7.6,2.7,False,False,Good,Solar,8891059.22
+345,2024-09-03,Nagpur,Nagpur,Apartment,2,1,1917.3,4077.9,3,30,0,17.6,4.5,4.4,True,False,Poor,Gas,17758911.87
+346,2024-05-21,Nagpur,,Villa,4,3,1781.4,,2,1,1,28.4,,,True,False,Good,,18004665.56
+347,2024-12-09,Thane,Thane,Apartment,1,2,954.7,1564.6,3,4,2,21.7,3.7,4.3,True,True,Fair,Gas,9725671.79
+348,2024-04-26,Thane,Thane,Independent House,4,3,1865.7,3009.4,3,23,0,22.9,8.0,2.4,False,True,Good,Solar,18540912.81
+349,2025-11-25,Thane,Thane,Villa,3,4,1530.0,2276.7,1,27,2,14.5,5.4,3.6,True,False,Poor,Solar,15047254.8
+350,2024-10-09,Pune,Pune,Apartment,2,1,994.4,2335.5,2,12,0,4.1,9.1,2.9,True,True,Poor,Gas,10494348.48
+351,2024-03-05,Pune,Pune,Apartment,4,3,1928.8,3246.4,3,18,1,19.5,4.8,4.2,True,False,Fair,Electric,18916558.97
+352,2024-08-20,Nashik,Nashik,Villa,1,1,857.3,1742.1,3,37,3,18.9,6.1,4.7,False,True,Excellent,Gas,7928481.76
+353,2024-04-29,Pune,Pune,Villa,1,2,1167.0,2446.8,2,10,1,39.0,8.6,4.1,True,True,Good,Electric,11707367.88
+354,2025-02-18,Mumbai,Mumbai,Apartment,3,4,1479.1,3005.3,2,2,1,15.5,5.9,2.5,False,True,Poor,Electric,15473392.57
+355,2025-12-06,Nashik,Nashik,Villa,5,6,2237.5,4488.8,2,21,3,35.9,9.7,4.3,True,False,Excellent,Gas,23069236.86
+356,2024-01-24,Pune,Pune,Villa,1,1,1391.0,3167.7,2,39,2,4.6,1.5,3.9,True,False,Excellent,Solar,12868862.89
+357,2024-10-18,Mumbai,Mumbai,Villa,3,4,1042.5,2523.7,3,32,2,16.5,7.4,3.3,False,False,Poor,Solar,10612070.16
+358,2025-09-04,Thane,Thane,Apartment,4,5,2187.5,4867.6,2,26,1,32.4,9.7,3.3,False,True,Fair,Electric,21771940.83
+359,2024-07-09,Pune,Pune,Villa,4,3,2108.7,4551.8,1,37,0,17.0,9.2,3.2,False,True,Poor,Gas,20386887.92
+360,2025-03-03,Nashik,Nashik,Independent House,4,4,1687.2,3177.1,2,31,1,2.0,1.0,2.8,False,True,Good,Gas,17201947.53
+361,2025-08-12,Thane,thane,Villa,2,3,1794.8,3434.4,3,23,3,34.9,6.7,3.4,True,False,Good,Solar,17129077.09
+362,2025-10-16,Thane,Thane,Independent House,4,3,1909.5,2537.1,2,22,2,17.4,9.2,3.1,False,False,Good,Solar,18426447.83
+363,2024-05-20,Mumbai,Mumbai,Villa,2,3,1590.7,3692.8,3,20,2,11.6,7.3,3.1,False,True,Poor,Electric,15667659.53
+364,2024-12-22,Nagpur,Nagpur,Villa,1,1,909.2,1640.8,1,9,0,17.3,9.2,2.3,True,True,Good,Electric,9500651.83
+365,2024-05-13,Pune,Pune,Villa,4,3,2019.1,2302.3,1,19,1,6.0,7.2,4.1,False,True,Excellent,Gas,19918522.75
+366,2024-05-06,Mumbai,Mumbai,Apartment,4,3,2071.4,2591.2,3,12,0,19.3,9.2,2.1,False,True,Good,Gas,20360079.95
+367,2025-08-15,Mumbai,Mumbai,Independent House,1,2,1441.7,3500.9,2,17,2,7.3,5.5,4.2,True,True,Good,Solar,14228107.65
+368,2025-01-23,Nashik,Nashik,Independent House,4,3,1646.1,3940.6,3,6,3,15.3,6.3,3.3,True,True,Good,Electric,17414683.07
+369,2025-01-29,Mumbai,,Independent House,4,4,2596.5,,2,7,2,28.5,,,False,False,Fair,,25452931.97
+370,2025-11-21,Mumbai,Mumbai,Apartment,5,5,2035.7,5046.3,2,18,1,34.4,9.1,4.4,False,True,Poor,Electric,20643451.25
+371,2024-07-24,Nashik,Nashik,Villa,1,1,756.4,1256.3,3,25,0,29.9,9.0,2.5,False,True,Excellent,Gas,6869628.33
+372,2025-04-10,Pune,Pune,Villa,3,4,1922.5,3712.6,3,37,3,14.9,7.0,4.9,False,False,Poor,Electric,18028570.71
+373,2025-09-30,Thane,Thane,Apartment,2,1,1643.6,3718.6,2,3,0,38.9,4.4,4.0,True,False,Poor,Electric,16350027.1
+374,2024-11-18,Nagpur,Nagpur,Villa,3,4,1719.1,3196.5,3,16,0,38.2,1.3,3.3,True,False,Poor,Gas,17536685.48
+375,2025-07-29,Nagpur,,Independent House,4,5,2124.2,,1,10,2,28.9,,,False,False,Excellent,,20917232.23
+376,2024-01-28,Thane,Thane,Independent House,2,3,1443.8,3137.5,2,22,2,3.4,6.3,2.4,False,False,Fair,Electric,14155039.98
+377,2024-12-11,Mumbai,Mumbai,Independent House,3,3,1876.7,2212.6,1,22,1,10.2,3.8,2.3,True,False,Fair,Gas,18456450.02
+378,2024-04-10,Thane,Thane,Apartment,2,3,532.3,784.3,3,26,3,23.9,9.9,3.1,False,False,Good,Electric,5322476.35
+379,2024-09-28,Nashik,Nashik,Independent House,2,2,586.8,1150.6,2,10,3,8.9,6.7,4.9,True,True,Poor,Gas,7008803.66
+380,2025-05-31,Nashik,Nashik,Villa,2,3,607.6,1171.8,2,6,0,23.1,5.8,3.3,False,True,Fair,Gas,6354557.03
+381,2025-09-21,Thane,Thane,Villa,3,3,1173.4,1587.5,1,35,1,23.5,2.9,4.9,False,False,Excellent,Solar,11762916.32
+382,2025-10-23,Nashik,Nashik,Independent House,2,1,1670.0,3810.6,2,19,2,34.5,9.2,3.9,False,False,Good,Electric,15448390.29
+383,2024-09-21,Mumbai,Mumbai,Villa,2,1,1520.6,2660.8,3,19,3,17.5,9.2,2.6,False,True,Good,Solar,14496022.87
+384,2025-02-10,Mumbai,Mumbai,Independent House,4,3,2273.5,5236.9,1,3,2,24.5,8.8,4.7,False,False,Good,Gas,21383786.74
+385,2025-02-03,Thane,Thane,Independent House,3,4,2121.1,5153.2,3,37,2,20.4,1.8,3.8,False,False,Good,Electric,20636479.57
+386,2025-11-30,Nagpur,Nagpur,Villa,2,2,1547.4,2586.9,3,28,0,20.1,4.4,4.8,False,False,Good,Electric,14705771.86
+387,2025-12-02,Nashik,Nashik,Apartment,2,1,1027.0,1179.8,3,38,0,27.9,8.1,2.7,False,False,Poor,Electric,9103671.92
+388,2024-10-07,Mumbai,Mumbai,Villa,5,5,2770.8,6680.0,1,5,2,9.2,9.0,4.7,False,False,Poor,Solar,27327887.59
+389,2024-02-23,Mumbai,Mumbai,Apartment,2,2,680.8,1534.5,3,6,2,20.7,4.2,3.8,False,False,Poor,Solar,7299049.2
+390,2025-04-07,Nashik,Nashik,Independent House,4,4,1832.0,3492.0,1,20,1,10.7,7.4,4.3,True,False,Good,Electric,18669758.62
+391,2025-07-25,Mumbai,Mumbai,Independent House,3,3,1810.1,2205.0,2,12,1,16.3,4.4,4.5,True,True,Good,Gas,18834294.0
+392,2025-03-21,Thane,Thane,Villa,4,3,1828.0,3037.2,2,3,2,6.8,9.6,2.5,True,True,Poor,Gas,18676874.35
+393,2025-02-22,Pune,Pune,Apartment,3,3,1553.8,2540.3,2,31,1,24.4,10.0,2.8,True,False,Fair,Electric,15054700.65
+394,2025-12-26,Nagpur,Nagpur,Independent House,2,2,1549.9,3189.6,2,37,0,1.4,2.2,3.0,False,True,Fair,Gas,15396948.99
+395,2025-07-26,Pune,Pune,Apartment,3,2,1643.7,3898.1,3,30,0,1.2,5.5,3.1,False,False,Fair,Gas,15725459.85
+396,2025-01-04,Nashik,Nashik,Villa,1,1,346.2,534.6,3,5,3,6.5,2.1,2.1,True,False,Fair,Solar,3864584.52
+397,2024-06-01,Pune,Pune,Apartment,5,5,2048.1,4812.5,2,27,3,30.8,2.4,4.6,False,True,Excellent,Electric,20458129.35
+398,2024-04-05,Nashik,Nashik,Villa,2,1,1449.8,1677.6,2,31,3,18.9,2.0,4.2,True,True,Good,Gas,14782435.34
+399,2024-10-18,Mumbai,Mumbai,Independent House,3,4,1499.6,2095.5,1,37,1,17.2,1.7,4.3,True,False,Excellent,Electric,14556767.67
+400,2025-11-02,Mumbai,Mumbai,Villa,1,1,693.9,791.3,2,9,3,18.7,9.6,3.8,True,False,Fair,Solar,7115571.69
+401,2024-09-18,Nagpur,Nagpur,Villa,6,5,2589.5,5978.0,3,13,2,13.6,1.5,2.2,False,True,Excellent,Gas,26418404.39
+402,2025-01-11,Mumbai,Mumbai,Villa,3,3,1678.8,2130.2,2,9,3,29.7,9.3,4.7,True,False,Poor,Electric,16339201.69
+403,2025-10-25,Pune,Pune,Apartment,1,1,863.6,1930.5,3,27,1,17.9,4.8,2.1,False,False,Poor,Solar,7715582.73
+404,2025-08-05,Nashik,Nashik,Apartment,2,2,1081.3,1309.3,2,27,2,6.8,2.2,4.7,True,False,Excellent,Solar,10652854.75
+405,2025-02-06,Pune,,Villa,2,2,1910.2,,2,36,2,23.8,,,False,True,Fair,,17916217.51
+406,2025-07-01,Nagpur,nagpur,Villa,3,3,1029.8,2297.4,2,39,1,9.2,1.7,4.9,False,True,Excellent,Gas,10823651.62
+407,2024-05-18,Pune,pune,Apartment,4,4,1768.8,3743.4,2,38,2,27.9,9.7,4.0,False,True,Excellent,Solar,17786780.27
+408,2024-06-19,Mumbai,Mumbai,Independent House,3,3,2472.8,4969.4,2,9,1,4.4,7.9,2.4,False,True,Poor,Electric,23811725.69
+409,2025-08-15,Nagpur,Nagpur,Independent House,2,1,524.7,793.8,2,12,0,14.0,1.9,4.5,False,False,Fair,Gas,5663574.07
+410,2025-10-25,Nashik,Nashik,Villa,2,3,924.8,2228.3,2,39,1,28.9,5.8,3.3,False,True,Excellent,Electric,9216688.3
+411,2024-10-27,Pune,Pune,Villa,1,2,983.0,1110.0,2,27,1,19.3,4.9,3.5,False,False,Poor,Solar,8752932.91
+412,2025-05-20,Nagpur,Nagpur,Apartment,2,1,1228.3,1707.4,3,39,0,27.0,2.2,2.6,False,True,Excellent,Gas,11417327.04
+413,2024-08-17,Thane,Thane,Villa,3,2,1254.5,2834.1,3,11,0,32.5,4.0,2.3,True,True,Fair,Gas,13111464.64
+414,2025-09-16,Thane,Thane,Apartment,2,3,1580.3,3075.4,1,32,0,37.1,4.9,3.4,True,True,Excellent,Solar,15087338.22
+415,2024-05-21,Nashik,Nashik,Apartment,3,3,2055.9,4358.0,3,10,3,30.7,5.5,4.6,True,False,Poor,Electric,20291601.18
+416,2025-03-07,Thane,Thane,Apartment,3,3,1506.9,2723.1,1,18,2,15.5,7.8,3.1,True,True,Poor,Electric,15323085.3
+417,2024-11-18,Nashik,Nashik,Apartment,5,6,2429.9,5883.3,2,23,1,31.0,7.5,3.6,True,True,Poor,Gas,24382968.89
+418,2024-01-09,Nashik,Nashik,Independent House,3,2,1392.3,1644.2,3,36,2,17.4,9.0,4.1,False,False,Good,Solar,13127936.69
+419,2024-02-07,Mumbai,Mumbai,Villa,2,3,908.5,1828.6,3,39,2,35.6,8.0,3.2,True,False,Good,Solar,8899738.99
+420,2025-03-08,Nashik,Nashik,Apartment,2,3,1908.1,2933.1,2,35,1,1.9,9.0,3.6,False,True,Excellent,Electric,18226595.88
+421,2024-10-18,Nashik,Nashik,Independent House,1,1,1463.5,2529.3,3,7,0,18.7,9.8,4.4,True,False,Good,Solar,13986268.92
+422,2025-03-11,Mumbai,Mumbai,Villa,1,1,912.1,1747.0,2,33,3,4.8,7.4,4.5,True,True,Good,Electric,9387298.3
+423,2024-05-27,Pune,Pune,Villa,4,5,2162.9,3950.6,2,35,2,23.8,6.7,5.0,False,False,Poor,Gas,21280477.82
+424,2025-01-13,Mumbai,Mumbai,Apartment,5,4,2087.9,3627.9,1,13,1,37.8,4.3,4.9,False,True,Good,Gas,21221143.98
+425,2024-07-06,Pune,Pune,Villa,1,1,438.9,500.0,1,31,1,31.6,4.8,4.8,False,False,Excellent,Gas,4574777.03
+426,2025-10-13,Thane,Thane,Villa,1,1,1321.3,2513.4,3,30,3,36.1,8.0,3.4,True,True,Poor,Gas,12287296.44
+427,2024-06-18,Mumbai,Mumbai,Independent House,4,5,1796.1,3005.7,1,39,3,14.2,1.4,4.0,False,False,Fair,Solar,17769667.7
+428,2024-07-29,Nashik,Nashik,Independent House,1,1,1060.2,1970.4,1,39,1,30.3,5.5,2.1,True,True,Poor,Gas,9547657.92
+429,2024-04-03,Nashik,Nashik,Apartment,3,4,1739.2,3109.8,1,2,2,18.0,4.7,4.6,False,False,Good,Electric,16983574.92
+430,2024-04-11,Nagpur,Nagpur,Villa,2,1,1737.3,4226.8,3,19,1,3.3,9.7,2.5,True,False,Fair,Electric,16363728.98
+431,2024-11-21,Mumbai,Mumbai,Villa,1,1,834.8,1198.3,3,12,1,20.2,7.8,3.2,True,False,Excellent,Electric,8257540.36
+432,2024-03-26,Nagpur,Nagpur,Independent House,3,3,2196.8,5379.7,3,35,0,10.6,6.0,4.4,False,False,Good,Gas,20857163.99
+433,2024-03-02,Mumbai,Mumbai,Villa,1,2,483.8,1183.3,3,27,3,2.6,8.3,4.9,False,True,Fair,Solar,5821073.55
+434,2025-12-16,Nagpur,,Apartment,2,3,1495.8,,3,13,2,2.8,,,False,True,Fair,,15376926.42
+435,2024-12-02,Thane,thane,Independent House,3,4,1644.4,3271.0,3,21,3,11.6,7.0,3.0,True,False,Good,Solar,16663173.05
+436,2025-11-19,Nagpur,Nagpur,Villa,3,2,2104.9,3532.9,3,11,3,30.7,5.8,4.4,True,True,Fair,Electric,20529293.5
+437,2025-09-20,Mumbai,Mumbai,Independent House,4,3,1877.5,3281.4,1,7,3,1.4,7.7,4.3,False,True,Good,Gas,19583617.35
+438,2025-05-27,Thane,Thane,Independent House,4,4,2797.5,6619.8,3,31,1,1.3,9.9,3.9,True,False,Good,Solar,26797034.32
+439,2025-12-10,Mumbai,Mumbai,Independent House,3,4,1447.6,1724.8,1,11,0,6.0,9.4,4.6,False,True,Fair,Solar,14546118.0
+440,2025-06-13,Nashik,Nashik,Independent House,1,2,988.8,2269.6,2,3,3,33.9,4.7,2.4,False,False,Good,Gas,9098226.89
+441,2024-09-12,Mumbai,Mumbai,Villa,2,2,1408.9,2322.7,2,0,0,35.3,8.3,5.0,True,False,Fair,Gas,14020139.49
+442,2025-06-16,Nashik,Nashik,Apartment,2,2,1341.5,2588.5,3,1,2,33.8,3.2,3.4,False,True,Poor,Gas,13304439.44
+443,2025-10-03,Thane,Thane,Apartment,1,1,1036.0,1687.0,3,2,0,31.5,1.6,4.4,True,False,Excellent,Solar,9859397.9
+444,2025-04-09,Mumbai,Mumbai,Independent House,4,3,2421.9,5213.7,1,39,0,18.7,5.2,3.3,True,False,Good,Gas,23383359.0
+445,2024-02-15,Pune,Pune,Villa,3,4,2037.2,4820.4,1,12,2,14.9,5.3,3.9,True,True,Poor,Solar,20873816.72
+446,2024-08-31,Mumbai,Mumbai,Independent House,4,5,2311.2,5051.5,1,34,3,13.0,4.1,3.1,True,True,Excellent,Electric,23139773.29
+447,2024-11-02,Thane,,Apartment,2,1,738.7,,3,4,3,28.1,,,False,False,Excellent,,7679966.42
+448,2025-02-13,Pune,Pune,Apartment,4,3,2282.2,4551.4,3,0,1,19.2,2.9,3.4,False,False,Fair,Gas,21880202.02
+449,2024-06-27,Nashik,Nashik,Independent House,2,1,1610.4,2764.4,3,18,2,2.7,1.3,2.6,True,True,Good,Gas,16025000.95
+450,2024-09-02,Nagpur,Nagpur,Villa,3,2,1603.6,3630.6,1,1,3,26.5,9.0,3.0,True,False,Good,Solar,15778402.94
+451,2025-09-22,Mumbai,Mumbai,Independent House,6,7,3224.5,4081.9,1,4,1,8.5,4.4,3.1,False,True,Fair,Gas,32515599.84
+452,2025-02-01,Thane,Thane,Independent House,2,1,1422.4,3493.1,2,32,1,29.4,8.1,4.4,True,True,Fair,Electric,13750513.66
+453,2024-07-26,Pune,,Apartment,3,3,1188.2,,3,33,3,19.5,,,True,True,Poor,,12361300.27
+454,2025-06-08,Nagpur,,Villa,3,2,1138.9,,1,23,1,30.3,,,True,True,Poor,,12467265.41
+455,2025-06-09,Thane,Thane,Apartment,2,2,1063.8,1739.7,1,17,3,10.1,6.8,3.1,True,False,Fair,Gas,10606410.96
+456,2024-05-21,Thane,Thane,Independent House,2,3,1656.8,2596.6,3,12,2,10.8,7.7,4.3,False,True,Fair,Gas,16434778.97
+457,2024-08-20,Pune,Pune,Apartment,3,3,1551.2,3491.1,3,25,0,19.4,5.6,4.3,True,False,Poor,Gas,15099498.13
+458,2025-04-05,Nagpur,Nagpur,Apartment,1,2,626.4,987.7,1,29,2,34.0,4.9,4.8,False,True,Fair,Gas,6245011.35
+459,2024-01-24,Thane,Thane,Apartment,3,2,1268.4,2834.3,2,31,2,9.8,4.8,4.3,False,False,Good,Gas,12268989.47
+460,2024-04-21,Nagpur,Nagpur,Villa,7,8,3089.8,7351.5,3,38,3,39.2,2.8,3.2,False,True,Fair,Gas,31089064.3
+461,2024-03-12,Thane,Thane,Villa,2,1,1855.2,3309.8,1,38,1,3.7,9.7,2.9,True,False,Excellent,Gas,17390785.48
+462,2024-11-13,Pune,Pune,Independent House,1,1,991.2,1269.5,2,7,3,30.0,4.5,4.7,True,True,Poor,Gas,10643974.16
+463,2024-12-02,Thane,Thane,Villa,2,1,559.3,1176.5,2,32,2,8.9,9.9,3.3,False,True,Poor,Electric,5169410.75
+464,2025-09-24,Pune,Pune,Villa,1,2,774.2,1227.5,3,29,2,16.3,8.4,4.5,False,True,Poor,Solar,7374332.12
+465,2025-02-25,Nagpur,Nagpur,Independent House,3,4,1763.3,2531.3,1,2,2,35.4,5.8,4.0,True,True,Excellent,Electric,18451204.0
+466,2025-02-12,Nashik,Nashik,Villa,3,3,1709.0,2274.3,1,28,0,19.0,1.7,4.1,False,False,Excellent,Gas,16661782.77
+467,2024-06-14,Nashik,Nashik,Apartment,1,1,1497.0,2662.7,1,29,0,22.4,3.2,4.9,True,False,Excellent,Gas,14415526.32
+468,2025-12-14,Nagpur,Nagpur,Independent House,2,1,1330.7,2714.5,1,4,2,7.0,4.2,2.7,True,True,Excellent,Electric,13862747.26
+469,2024-12-11,Mumbai,Mumbai,Independent House,3,2,1301.7,2839.4,1,3,1,15.6,3.1,2.3,False,True,Excellent,Gas,13086553.96
+470,2024-05-03,Nagpur,Nagpur,Apartment,4,3,1717.9,1995.5,3,10,0,32.8,3.9,3.9,True,False,Fair,Electric,17243004.66
+471,2025-02-24,Pune,Pune,Independent House,3,2,1734.1,2424.1,1,24,0,26.7,3.5,3.9,True,True,Poor,Gas,17565224.04
+472,2025-10-12,Pune,Pune,Independent House,3,2,1293.6,3159.7,3,16,2,39.3,7.3,4.0,True,False,Fair,Solar,12127606.17
+473,2024-08-30,Nashik,,Apartment,3,4,1051.1,,3,28,1,20.6,,,True,True,Excellent,,11199365.03
+474,2024-11-21,Nashik,Nashik,Apartment,2,1,1881.5,2608.0,1,24,1,37.0,6.4,4.8,False,True,Poor,Solar,17931457.22
+475,2024-11-25,Thane,Thane,Independent House,2,3,1819.9,2875.1,1,21,0,36.4,7.0,2.7,True,False,Excellent,Gas,16658265.14
+476,2024-03-21,Thane,Thane,Villa,2,1,1630.3,4057.4,1,40,1,4.6,6.3,4.5,True,True,Fair,Gas,15678027.26
+477,2025-02-11,Nashik,Nashik,Villa,1,2,1433.6,2185.4,3,15,3,38.7,2.8,4.6,False,True,Poor,Electric,13589495.54
+478,2025-01-24,Nashik,Nashik,Villa,1,1,685.7,1485.6,2,1,0,30.6,9.3,3.8,True,True,Fair,Electric,7048721.43
+479,2025-02-08,Nagpur,Nagpur,Villa,1,1,970.6,1333.6,1,30,0,1.5,5.5,4.2,False,False,Poor,Electric,8784405.29
+480,2025-12-27,Thane,Thane,Independent House,1,1,974.0,2424.7,1,2,3,37.4,2.5,4.3,False,False,Fair,Solar,9997116.52
+481,2025-04-11,Thane,Thane,Apartment,3,4,1961.2,2822.8,1,15,2,25.6,7.1,4.1,True,False,Fair,Gas,19329982.03
+482,2025-03-13,Pune,Pune,Villa,1,1,513.8,1119.7,3,7,3,16.5,6.3,4.7,True,False,Poor,Solar,4866610.91
+483,2025-05-18,Pune,pune,Apartment,3,2,1316.5,2620.7,2,6,1,11.5,2.9,4.2,False,True,Poor,Solar,14007439.28
+484,2024-07-24,Pune,Pune,Apartment,2,1,1142.6,1856.2,3,11,1,8.7,2.6,4.8,False,True,Good,Electric,11805061.54
+485,2025-08-22,Mumbai,Mumbai,Villa,5,6,2507.3,3141.3,3,39,1,4.1,1.8,2.4,True,False,Excellent,Gas,25024568.49
+486,2024-12-11,Nagpur,Nagpur,Villa,3,4,2274.0,5014.0,1,37,0,9.2,8.1,3.1,False,False,Fair,Solar,21611872.02
+487,2025-09-08,Mumbai,Mumbai,Independent House,4,4,2993.0,4877.9,1,25,2,35.1,8.3,2.0,False,True,Fair,Solar,27755965.17
+488,2024-02-16,Nashik,Nashik,Independent House,3,4,1503.4,2737.5,3,30,1,1.1,6.7,4.8,False,True,Fair,Solar,15187995.51
+489,2025-09-13,Nashik,Nashik,Apartment,1,2,858.3,1898.1,2,39,3,37.6,9.5,3.4,True,False,Excellent,Gas,7768931.28
+490,2025-03-21,Mumbai,Mumbai,Apartment,3,4,1286.6,1717.9,2,29,0,19.8,5.9,2.7,True,True,Good,Electric,13422824.44
+491,2024-08-17,Nashik,Nashik,Independent House,3,4,2198.0,4467.0,3,16,0,27.0,9.3,3.9,False,True,Excellent,Solar,21103142.37
+492,2024-12-14,Mumbai,Mumbai,Apartment,2,3,893.2,1800.2,3,24,3,32.5,3.0,2.3,True,True,Excellent,Solar,9982353.6
+493,2025-11-10,Thane,Thane,Apartment,1,2,839.6,1288.9,3,0,1,34.0,9.8,3.0,False,True,Excellent,Electric,8660395.81
+494,2025-05-29,Nashik,Nashik,Apartment,4,3,2476.4,5626.6,2,18,3,6.7,3.6,4.2,True,False,Fair,Solar,24324249.63
+495,2024-07-02,Mumbai,,Independent House,1,1,868.8,,2,18,0,39.3,,,True,True,Poor,,8516291.21
+496,2025-12-18,Pune,Pune,Villa,3,2,2230.2,3678.0,2,35,3,39.6,7.8,3.2,False,False,Excellent,Gas,20337379.79
+497,2025-10-28,Pune,,Independent House,1,2,1106.0,,1,19,1,18.2,,,True,True,Excellent,,11667862.71
+498,2025-10-04,Pune,Pune,Apartment,3,3,1718.7,4118.7,1,10,2,39.0,2.6,2.2,False,False,Excellent,Gas,15939779.0
+499,2024-01-12,Nashik,Nashik,Apartment,4,5,1533.3,3087.8,2,11,0,31.3,8.8,4.0,False,False,Excellent,Electric,15828153.66
+500,2025-10-22,Nagpur,Nagpur,Villa,1,1,810.5,1541.7,3,37,3,11.7,7.7,4.4,True,False,Good,Gas,6968394.08
+501,2025-08-21,Thane,Thane,Independent House,3,2,1139.9,2551.2,1,25,3,22.7,5.8,4.4,False,True,Excellent,Gas,12029941.04
+502,2024-09-19,Thane,Thane,Apartment,4,5,2542.7,2816.0,2,11,2,5.8,2.2,2.6,True,True,Excellent,Gas,25674508.57
+503,2025-08-13,Pune,,Villa,3,2,1025.0,,3,27,0,10.7,,,False,False,Fair,,10412266.98
+504,2024-05-11,Nashik,Nashik,Villa,1,2,1166.7,1670.6,1,2,1,12.7,8.5,4.9,True,False,Excellent,Solar,11359169.69
+505,2025-07-31,Nashik,Nashik,Independent House,1,1,1484.7,1806.2,2,29,3,37.7,2.3,2.6,False,True,Good,Electric,13989355.25
+506,2025-10-17,Nashik,Nashik,Villa,3,3,1689.5,4138.8,1,1,0,11.5,5.8,4.1,False,True,Fair,Gas,16960313.72
+507,2025-06-25,Mumbai,Mumbai,Independent House,2,1,1743.0,4307.4,1,24,3,38.1,8.0,2.4,False,False,Fair,Solar,15428252.14
+508,2024-05-10,Thane,,Independent House,1,1,1469.9,,2,20,1,14.5,,,False,False,Good,,13524714.31
+509,2024-12-28,Nagpur,Nagpur,Independent House,4,4,1842.0,4394.7,3,3,2,28.6,3.2,3.8,False,True,Fair,Electric,19175973.13
+510,2024-04-05,Pune,Pune,Apartment,5,4,2079.6,4138.2,1,19,2,16.9,3.8,2.3,True,True,Excellent,Solar,21295968.02
+511,2025-09-23,Mumbai,Mumbai,Independent House,1,1,1242.7,2989.3,1,32,3,20.4,7.2,4.0,True,False,Excellent,Solar,12014215.67
+512,2025-01-10,Mumbai,Mumbai,Independent House,1,1,949.2,1953.3,1,33,3,38.6,7.1,4.6,True,True,Fair,Gas,9235627.27
+513,2024-11-08,Pune,Pune,Independent House,2,1,1068.3,2542.1,1,21,0,12.3,5.3,2.8,True,False,Excellent,Electric,10428147.25
+514,2024-01-10,Nashik,Nashik,Villa,3,3,2257.9,4429.4,2,0,2,14.8,1.0,4.7,True,False,Good,Gas,22028560.98
+515,2024-10-02,Thane,Thane,Villa,1,1,448.3,497.5,3,31,2,9.8,4.6,2.9,False,True,Poor,Gas,4414964.74
+516,2025-05-05,Pune,Pune,Villa,3,3,2029.0,2546.2,2,12,0,6.2,4.8,3.0,True,True,Excellent,Electric,20761814.88
+517,2025-05-27,Nashik,nashik,Independent House,2,3,916.4,1424.9,2,8,3,6.1,9.6,4.4,True,True,Good,Gas,10050997.56
+518,2024-10-14,Pune,Pune,Villa,3,4,1300.8,2221.8,2,0,2,20.0,7.8,2.7,True,True,Good,Solar,13639909.02
+519,2024-01-19,Nagpur,Nagpur,Apartment,4,3,1642.7,3212.4,1,32,1,9.9,2.2,2.1,True,True,Excellent,Electric,16725438.05
+520,2024-12-25,Nashik,Nashik,Apartment,3,2,1142.8,1794.9,2,14,0,20.9,6.8,2.9,False,False,Fair,Gas,11257285.41
+521,2024-11-07,Nashik,Nashik,Independent House,4,5,1506.8,2104.7,2,20,2,36.4,1.9,2.6,False,False,Excellent,Solar,15271199.56
+522,2025-10-06,Pune,Pune,Apartment,1,1,557.1,1192.3,3,23,2,10.3,3.5,3.8,True,True,Excellent,Solar,5880197.61
+523,2024-07-15,Pune,Pune,Independent House,4,3,2517.4,6031.0,1,28,2,12.8,5.3,4.3,True,True,Fair,Solar,24750776.01
+524,2024-10-07,Thane,Thane,Apartment,5,6,2548.4,6053.0,1,7,3,17.3,9.4,3.5,True,True,Fair,Gas,25938689.74
+525,2024-10-05,Thane,Thane,Apartment,4,3,1670.3,2994.9,3,25,0,7.5,7.8,3.2,False,False,Good,Solar,16283597.37
+526,2024-02-16,Pune,Pune,Villa,4,4,1655.2,3460.7,3,32,2,12.8,3.0,4.1,True,True,Excellent,Solar,17802447.2
+527,2025-12-23,Mumbai,Mumbai,Villa,3,3,2119.3,4237.3,1,3,1,21.8,1.0,3.0,False,False,Good,Electric,21059758.28
+528,2025-10-03,Nashik,Nashik,Independent House,2,3,1835.6,4136.4,1,0,2,7.9,9.7,3.6,True,False,Good,Electric,17666543.33
+529,2024-06-29,Pune,Pune,Villa,4,5,1572.6,2072.5,1,25,3,15.4,9.1,2.3,True,False,Good,Solar,16132522.91
+530,2024-05-20,Thane,Thane,Apartment,1,1,1413.8,1927.0,1,38,0,17.6,5.1,3.9,False,True,Excellent,Electric,13366803.44
+531,2024-12-12,Thane,Thane,Apartment,1,2,1319.9,1696.2,1,2,2,6.6,6.6,2.0,True,True,Good,Gas,13249757.08
+532,2024-04-15,Mumbai,Mumbai,Apartment,1,1,861.6,1348.0,1,19,1,3.2,7.2,3.9,True,True,Poor,Gas,8815034.15
+533,2024-04-22,Pune,Pune,Villa,2,2,1856.4,2425.0,3,24,2,9.8,8.9,3.2,True,False,Fair,Gas,17425905.78
+534,2024-04-16,Nashik,Nashik,Villa,1,1,1312.5,1721.4,2,38,2,24.4,7.1,2.5,False,False,Fair,Electric,11293257.65
+535,2025-08-14,Mumbai,Mumbai,Independent House,2,1,1793.5,3925.7,1,9,2,6.8,5.0,4.4,False,True,Fair,Gas,16989156.9
+536,2025-01-27,Pune,Pune,Villa,4,4,2866.0,4433.8,2,22,3,28.0,4.7,4.4,False,True,Poor,Solar,28412373.63
+537,2025-04-30,Thane,Thane,Apartment,1,2,1147.7,2109.2,3,26,1,28.4,3.1,2.0,True,False,Excellent,Electric,10651510.3
+538,2025-01-21,Pune,,Independent House,1,1,875.9,,3,29,3,10.5,,,True,True,Poor,,8885666.7
+539,2024-07-05,Pune,Pune,Apartment,4,3,1723.2,3915.8,1,30,0,6.7,2.3,2.7,True,False,Fair,Electric,17293879.98
+540,2025-03-09,Nagpur,Nagpur,Villa,3,4,1114.7,1673.7,1,0,0,35.4,1.3,4.3,True,True,Fair,Solar,12687043.7
+541,2024-07-07,Nagpur,Nagpur,Independent House,1,1,714.0,1758.2,3,17,3,39.1,2.1,2.6,True,True,Excellent,Solar,7229789.06
+542,2024-10-15,Pune,Pune,Apartment,3,3,1075.1,1430.7,2,24,3,8.6,2.0,2.2,False,True,Excellent,Gas,11400961.03
+543,2024-11-18,Mumbai,Mumbai,Villa,1,1,811.2,1121.4,1,35,1,11.5,9.8,3.7,False,True,Excellent,Electric,7251875.79
+544,2024-06-02,Thane,Thane,Villa,4,3,1513.3,3257.5,3,20,2,39.0,7.3,2.3,False,True,Poor,Solar,14337436.42
+545,2025-06-12,Thane,Thane,Independent House,2,1,1593.8,1928.9,3,29,0,38.2,3.1,2.6,True,True,Fair,Electric,15171037.5
+546,2024-01-16,Mumbai,Mumbai,Villa,3,4,1600.2,1849.9,3,27,3,10.3,10.0,3.8,True,False,Excellent,Electric,15507823.35
+547,2025-03-28,Nashik,Nashik,Apartment,3,2,1860.2,2775.7,2,4,2,4.5,2.6,4.3,False,False,Excellent,Solar,18381815.27
+548,2025-11-29,Mumbai,Mumbai,Villa,2,2,1026.0,2359.7,3,26,1,18.2,5.6,3.9,False,False,Fair,Solar,9793391.11
+549,2025-02-01,Pune,Pune,Independent House,4,5,2827.6,5880.4,3,15,0,7.0,1.9,3.1,False,True,Excellent,Electric,28287348.55
+550,2025-05-12,Thane,Thane,Independent House,1,1,799.3,1080.9,1,5,3,31.0,2.8,3.0,False,False,Poor,Gas,7560067.53
+551,2024-08-06,Nagpur,Nagpur,Apartment,1,1,1475.2,2945.0,2,9,0,39.5,8.0,2.2,False,False,Poor,Electric,13149514.37
+552,2024-04-04,Mumbai,Mumbai,Villa,1,1,1495.9,2493.9,2,17,3,35.0,5.7,4.0,False,True,Fair,Electric,14160263.35
+553,2025-11-14,Mumbai,Mumbai,Apartment,3,3,1737.1,3213.1,1,30,3,14.8,7.2,3.2,True,True,Fair,Solar,17534958.06
+554,2024-01-04,Thane,Thane,Apartment,6,7,2678.1,2999.1,2,20,1,20.5,3.8,4.4,False,False,Poor,Solar,26987339.81
+555,2025-01-07,Nashik,nashik,Villa,2,3,1722.3,2907.6,3,12,1,24.4,2.9,2.6,True,True,Excellent,Solar,17165411.1
+556,2025-01-17,Nagpur,Nagpur,Independent House,1,1,300.0,477.9,3,22,3,21.4,7.9,2.3,True,False,Good,Solar,2797112.47
+557,2025-05-23,Mumbai,Mumbai,Independent House,3,4,1123.2,2232.7,3,27,0,39.8,8.3,2.3,True,False,Excellent,Solar,11217300.5
+558,2025-04-20,Nashik,Nashik,Independent House,1,2,880.6,2018.6,1,18,1,31.3,6.0,2.3,False,True,Poor,Gas,8608197.4
+559,2024-02-03,Nagpur,nagpur,Apartment,5,5,2310.9,5387.7,2,17,2,33.7,8.2,3.2,True,True,Fair,Solar,23222044.74
+560,2024-06-26,Nagpur,Nagpur,Villa,3,2,1788.3,4452.8,1,36,3,8.5,6.8,4.5,False,True,Good,Electric,17012349.62
+561,2025-03-23,Mumbai,mumbai,Independent House,2,3,1593.8,3162.2,2,7,2,33.7,2.4,3.0,True,True,Good,Gas,16551328.5
+562,2024-10-31,Pune,Pune,Apartment,1,2,1038.3,1178.9,3,24,1,39.4,6.7,4.3,True,True,Poor,Electric,9932178.31
+563,2024-07-03,Nashik,Nashik,Villa,1,2,1283.6,2559.1,3,1,0,5.3,9.3,2.4,True,False,Fair,Gas,12056691.88
+564,2024-11-01,Pune,pune,Apartment,1,1,1050.4,1870.9,3,4,0,9.2,4.8,4.7,False,True,Excellent,Gas,10752401.24
+565,2025-01-08,Pune,Pune,Apartment,6,7,3074.5,5734.2,1,38,2,37.1,2.7,2.1,True,True,Excellent,Electric,30660599.9
+566,2025-02-13,Thane,Thane,Villa,4,3,1634.5,2424.2,1,17,0,14.6,6.0,2.9,False,False,Good,Gas,16195178.8
+567,2025-09-02,Nagpur,Nagpur,Villa,2,2,1097.5,2104.0,3,6,2,7.5,2.9,4.2,False,False,Excellent,Solar,10408970.65
+568,2025-10-22,Thane,Thane,Independent House,2,2,1252.4,2814.2,2,40,1,35.7,9.6,2.8,False,False,Fair,Electric,11248597.55
+569,2025-12-05,Nashik,nashik,Villa,3,3,1809.4,2896.5,1,11,1,26.6,4.3,4.3,True,True,Good,Electric,18403506.34
+570,2024-11-21,Nagpur,Nagpur,Apartment,1,2,1098.6,1801.4,3,4,1,21.6,1.9,2.8,True,False,Good,Gas,10687282.74
+571,2024-10-18,Nagpur,Nagpur,Villa,3,3,1691.1,2154.0,1,7,2,24.1,3.1,2.1,True,True,Excellent,Solar,16895597.32
+572,2024-02-18,Thane,Thane,Independent House,4,3,1622.9,2852.9,2,4,2,11.7,7.8,3.2,False,False,Poor,Electric,16117652.5
+573,2024-03-31,Pune,Pune,Villa,3,3,2259.3,2810.2,1,39,0,33.2,2.2,5.0,False,True,Excellent,Solar,21168676.68
+574,2025-08-20,Pune,Pune,Apartment,2,1,1761.9,4274.3,1,3,2,13.8,6.5,4.4,False,True,Fair,Gas,16917353.71
+575,2024-04-04,Pune,Pune,Villa,3,4,1519.9,3093.9,3,28,1,23.5,7.0,4.9,False,False,Excellent,Electric,14237092.17
+576,2024-04-17,Nagpur,Nagpur,Independent House,2,3,552.3,1145.0,1,13,3,3.4,1.1,2.6,False,True,Fair,Electric,6428111.21
+577,2024-10-11,Mumbai,Mumbai,Independent House,3,2,1311.9,1845.0,2,8,3,39.0,8.8,3.5,False,True,Fair,Solar,12584240.7
+578,2025-07-17,Mumbai,,Villa,1,2,1331.8,,2,7,1,11.4,,,False,False,Good,,12426059.56
+579,2024-06-29,Nagpur,Nagpur,Independent House,2,1,1076.6,1595.2,1,28,0,26.3,7.6,3.3,False,True,Poor,Solar,10448858.74
+580,2025-12-17,Thane,Thane,Villa,2,1,808.9,1138.5,1,7,0,23.4,3.1,3.6,False,True,Poor,Gas,8630112.39
+581,2025-05-30,Pune,Pune,Independent House,4,4,1675.3,2325.3,1,31,2,25.8,7.4,2.9,True,True,Poor,Solar,17624011.31
+582,2024-01-22,Nashik,Nashik,Villa,1,1,1129.0,2319.1,1,20,1,14.0,5.1,4.9,False,False,Excellent,Gas,11070717.06
+583,2025-05-30,Thane,Thane,Apartment,3,3,1078.6,2067.1,2,30,1,19.4,1.4,2.1,False,True,Excellent,Gas,10673158.79
+584,2025-11-10,Thane,Thane,Independent House,2,2,1225.4,3046.1,2,22,3,10.9,5.1,4.5,False,False,Poor,Gas,12246048.39
+585,2024-04-01,Pune,Pune,Villa,3,2,1424.4,3518.4,1,9,1,14.9,1.3,3.7,False,False,Excellent,Electric,14500734.27
+586,2024-02-12,Pune,Pune,Independent House,4,5,2040.0,3001.7,3,11,2,35.6,4.5,3.3,False,False,Fair,Solar,19828401.81
+587,2025-05-13,Nashik,Nashik,Villa,5,5,2137.8,2681.3,1,18,3,37.2,2.3,4.0,False,True,Excellent,Electric,22255922.85
+588,2025-05-29,Nashik,Nashik,Independent House,4,3,1894.4,3379.1,1,3,3,14.7,8.5,2.1,True,False,Good,Gas,18805184.98
+589,2024-04-10,Nagpur,Nagpur,Villa,3,2,1436.4,2757.0,1,27,2,9.5,5.3,3.1,False,False,Fair,Gas,13610807.0
+590,2025-10-05,Thane,,Apartment,1,2,806.3,,1,8,2,6.3,,,True,False,Poor,,7886653.97
+591,2025-07-26,Mumbai,Mumbai,Villa,5,5,2003.5,4826.0,3,32,2,19.3,4.8,3.3,False,False,Excellent,Gas,20156343.38
+592,2025-04-16,Thane,Thane,Apartment,1,2,1182.1,1917.8,3,32,2,3.1,8.6,2.4,True,False,Excellent,Electric,10769112.24
+593,2024-05-27,Thane,Thane,Villa,3,4,1848.6,4160.6,3,6,3,27.9,8.8,2.4,True,True,Good,Gas,18186987.5
+594,2024-04-09,Thane,Thane,Apartment,3,3,2064.6,3169.7,1,40,3,25.3,2.8,2.2,True,True,Poor,Gas,19846059.7
+595,2024-05-29,Nagpur,Nagpur,Apartment,2,1,1769.0,2947.8,1,19,1,33.8,5.9,4.5,False,True,Good,Solar,16471035.01
+596,2025-01-30,Nagpur,Nagpur,Apartment,3,4,1331.9,1838.7,2,34,2,12.3,1.9,3.8,False,False,Poor,Electric,13186092.02
+597,2024-05-22,Nashik,Nashik,Independent House,3,3,1610.0,3042.7,1,7,2,2.3,6.9,4.0,False,True,Poor,Electric,16260384.18
+598,2024-10-12,Pune,Pune,Independent House,4,5,1793.1,2848.1,3,13,3,21.0,2.6,2.5,False,False,Fair,Electric,18062744.47
+599,2024-02-16,Mumbai,,Independent House,4,4,2369.7,,1,30,2,6.0,,,False,False,Good,,23350321.73
+600,2024-03-04,Mumbai,Mumbai,Apartment,4,4,1694.7,3667.1,3,20,1,5.1,8.9,4.2,False,False,Excellent,Solar,16957197.09
+601,2025-05-17,Nashik,,Villa,5,6,2261.4,,2,1,0,28.3,,,True,True,Good,,24059915.44
+602,2025-07-13,Thane,Thane,Villa,3,2,1473.7,2822.1,3,5,0,8.9,8.3,4.7,False,False,Good,Solar,14134664.52
+603,2025-03-13,Nagpur,Nagpur,Apartment,3,4,1362.0,1860.8,1,31,3,20.5,4.2,4.7,True,True,Excellent,Gas,13693400.95
+604,2024-03-10,Nashik,Nashik,Apartment,2,2,1585.0,1857.8,3,14,2,1.9,8.4,2.9,False,False,Fair,Gas,14659100.77
+605,2024-12-12,Mumbai,Mumbai,Apartment,3,4,1137.0,1747.7,3,32,0,22.3,9.0,3.7,False,True,Fair,Gas,11602042.48
+606,2024-10-04,Pune,Pune,Apartment,4,4,1903.3,2721.5,1,3,0,14.5,1.6,3.2,True,False,Excellent,Electric,19769546.39
+607,2025-07-19,Mumbai,Mumbai,Villa,1,1,776.0,1702.6,1,19,0,37.3,1.2,4.3,True,False,Poor,Solar,7475115.47
+608,2025-08-25,Mumbai,mumbai,Villa,5,4,2048.8,3509.9,3,7,2,14.7,4.1,4.8,True,True,Excellent,Gas,21892707.22
+609,2025-09-12,Pune,Pune,Independent House,2,1,1765.2,2254.8,1,3,2,2.7,4.1,4.0,True,False,Excellent,Solar,16946962.93
+610,2024-09-30,Thane,Thane,Independent House,4,3,1836.1,3832.6,2,31,1,18.3,3.7,3.1,False,True,Excellent,Gas,18407622.92
+611,2025-12-16,Pune,Pune,Villa,3,3,1206.6,1459.7,1,17,1,12.9,6.0,2.4,True,True,Excellent,Gas,12968422.43
+612,2024-02-15,Nagpur,Nagpur,Villa,2,3,1369.0,2081.6,1,24,0,11.9,6.5,3.5,False,False,Good,Solar,13067274.16
+613,2025-09-28,Nashik,Nashik,Villa,2,1,1351.3,2929.9,1,34,2,37.0,9.2,4.4,True,True,Excellent,Gas,12902927.36
+614,2024-10-14,Mumbai,Mumbai,Villa,1,1,334.4,584.8,3,34,2,7.3,4.4,4.2,True,True,Excellent,Gas,3682849.14
+615,2025-08-05,Nashik,,Villa,4,4,1556.0,,2,2,2,26.7,,,True,True,Good,,16297808.61
+616,2024-07-03,Nagpur,Nagpur,Villa,1,1,976.3,1730.4,3,22,1,16.9,6.2,2.2,False,True,Fair,Electric,9273035.0
+617,2024-08-21,Thane,Thane,Independent House,2,3,1991.8,2839.8,3,3,0,8.2,5.6,3.3,False,True,Fair,Electric,19852413.08
+618,2025-08-07,Nashik,Nashik,Independent House,4,5,2460.4,4775.2,2,2,0,4.0,5.0,3.5,True,True,Poor,Gas,25232386.52
+619,2025-01-12,Pune,Pune,Apartment,1,1,858.3,1673.6,2,20,2,39.0,9.1,3.1,False,True,Excellent,Gas,7413344.99
+620,2024-03-20,Mumbai,Mumbai,Apartment,2,3,796.6,1749.9,3,32,2,37.7,4.4,3.7,True,False,Poor,Solar,7617220.01
+621,2025-01-05,Pune,Pune,Villa,3,2,1396.9,2460.3,3,38,3,13.4,2.8,3.7,True,False,Excellent,Solar,13119308.66
+622,2025-08-06,Pune,Pune,Apartment,3,3,1545.7,2461.9,3,5,0,36.7,6.9,3.8,False,False,Good,Electric,15490697.8
+623,2025-04-09,Pune,pune,Apartment,3,3,1160.2,1831.0,1,18,0,16.9,5.5,2.4,False,True,Poor,Electric,11572869.73
+624,2024-05-10,Nashik,Nashik,Independent House,3,4,1576.7,2013.4,1,6,3,1.9,2.5,2.2,False,False,Good,Solar,15405528.55
+625,2024-10-23,Nagpur,Nagpur,Independent House,2,3,1378.0,2705.4,3,38,0,3.9,9.3,4.8,False,False,Good,Solar,13269651.63
+626,2024-08-25,Mumbai,Mumbai,Villa,4,3,1846.0,4345.2,3,9,2,27.3,5.1,3.0,True,False,Excellent,Solar,18818383.0
+627,2024-10-11,Thane,Thane,Independent House,2,2,893.5,1386.6,2,18,1,38.2,1.4,4.8,True,False,Fair,Gas,9058867.97
+628,2024-05-24,Nashik,Nashik,Independent House,2,2,1327.2,2275.5,1,31,2,37.6,3.3,3.8,True,True,Good,Gas,13266974.87
+629,2024-10-29,Nagpur,Nagpur,Independent House,3,4,1384.0,1535.3,1,12,2,8.9,9.5,3.7,False,True,Excellent,Electric,14232072.06
+630,2025-06-03,Pune,Pune,Villa,2,1,1946.6,4135.1,1,17,2,32.3,7.7,2.7,True,False,Excellent,Solar,17701296.7
+631,2024-05-20,Pune,Pune,Apartment,1,1,1098.8,2642.9,3,6,2,8.4,6.0,4.5,True,True,Good,Electric,10579094.38
+632,2025-05-17,Mumbai,Mumbai,Apartment,1,2,934.5,1397.7,1,31,0,38.1,8.7,4.2,True,False,Good,Gas,8614120.13
+633,2025-05-16,Nagpur,Nagpur,Villa,2,3,1159.8,1657.0,2,37,3,21.7,9.6,4.6,True,False,Fair,Solar,11261863.29
+634,2025-12-14,Nashik,Nashik,Apartment,1,1,1276.3,3136.0,2,26,1,26.8,2.0,3.4,False,True,Poor,Electric,12084969.81
+635,2025-03-11,Nagpur,Nagpur,Apartment,1,1,886.3,1604.6,2,17,0,22.9,3.9,4.0,False,False,Fair,Electric,7926083.57
+636,2025-07-06,Thane,thane,Independent House,1,1,1437.7,2406.4,3,28,1,21.9,8.0,2.3,False,True,Excellent,Electric,12859843.66
+637,2024-06-14,Nashik,Nashik,Villa,4,5,2158.7,4354.0,3,4,1,15.1,2.8,2.5,False,True,Poor,Gas,22279369.87
+638,2024-08-23,Mumbai,Mumbai,Independent House,1,1,1142.6,2464.8,3,1,0,20.6,8.1,2.1,False,False,Good,Gas,10293404.51
+639,2025-07-08,Mumbai,Mumbai,Apartment,2,3,1463.9,1879.1,3,25,2,34.6,1.7,3.5,False,True,Excellent,Solar,14571439.68
+640,2025-03-15,Nashik,Nashik,Villa,3,3,1076.5,1824.8,3,20,0,12.8,5.1,2.3,False,False,Fair,Electric,10577976.48
+641,2024-01-26,Thane,Thane,Apartment,3,2,1332.8,1498.2,2,24,3,38.1,7.9,4.1,False,True,Poor,Electric,13525951.94
+642,2025-02-16,Pune,Pune,Villa,2,2,1262.4,2819.6,1,9,0,22.9,2.9,4.8,True,True,Good,Gas,13153401.86
+643,2025-05-15,Thane,Thane,Villa,3,4,1541.6,3496.4,1,21,2,27.9,6.4,4.6,False,True,Good,Electric,15393100.86
+644,2025-03-24,Pune,Pune,Apartment,2,3,942.5,2252.3,2,5,0,15.7,7.8,2.5,True,True,Excellent,Electric,10193361.87
+645,2024-11-26,Thane,,Villa,2,2,798.9,,3,8,3,16.6,,,False,False,Good,,8061967.32
+646,2025-04-30,Thane,thane,Villa,3,4,1310.1,2393.7,2,23,3,19.1,9.4,4.8,True,True,Good,Gas,14206272.45
+647,2025-10-13,Nashik,Nashik,Apartment,1,1,300.0,413.7,1,12,3,13.9,1.5,3.4,True,True,Fair,Solar,4121001.19
+648,2024-06-05,Thane,,Apartment,3,3,1825.8,,2,37,3,37.4,,,True,True,Fair,,17905690.64
+649,2024-01-03,Pune,Pune,Apartment,3,4,1481.1,2313.9,3,24,2,38.7,7.6,3.8,False,True,Excellent,Solar,14922152.52
+650,2024-04-30,Thane,Thane,Villa,2,2,1681.7,3959.3,1,4,1,21.0,5.0,4.0,False,False,Poor,Electric,16158560.99
+651,2025-03-28,Thane,Thane,Villa,3,3,1372.9,1660.5,3,33,1,38.3,9.5,4.5,True,False,Excellent,Solar,12982583.97
+652,2024-07-02,Nashik,Nashik,Apartment,3,2,2087.2,4795.3,3,23,2,29.4,2.9,3.7,True,False,Good,Electric,19713772.75
+653,2024-02-14,Nagpur,Nagpur,Independent House,3,3,1288.6,1587.2,2,21,2,20.6,1.1,2.8,False,False,Fair,Electric,12952542.86
+654,2024-01-30,Nashik,Nashik,Independent House,1,2,560.1,1398.2,3,30,3,20.1,5.3,4.6,True,True,Good,Solar,5519516.2
+655,2024-01-18,Thane,Thane,Independent House,1,1,1412.4,3202.8,1,26,0,18.3,7.4,2.9,False,True,Fair,Solar,12453463.39
+656,2024-03-26,Nashik,Nashik,Apartment,5,5,2211.8,2476.8,3,33,3,17.2,7.0,2.2,True,True,Fair,Solar,23176549.31
+657,2024-04-29,Mumbai,Mumbai,Apartment,2,3,1688.0,2592.2,3,0,2,5.6,5.2,4.5,True,False,Excellent,Gas,17163833.31
+658,2024-02-24,Nashik,Nashik,Villa,1,1,1211.2,1701.1,2,0,3,4.2,7.5,2.7,True,True,Good,Electric,12437377.71
+659,2025-10-19,Nashik,Nashik,Independent House,2,1,1776.6,4152.0,1,17,2,11.1,5.0,2.3,False,False,Good,Gas,16605381.26
+660,2025-07-18,Thane,Thane,Villa,3,4,2130.4,2971.8,3,36,3,14.5,8.3,4.4,True,False,Excellent,Solar,20390103.03
+661,2025-12-19,Nashik,Nashik,Villa,3,3,1556.6,3721.4,3,2,1,19.5,5.2,3.0,False,True,Excellent,Gas,15595356.62
+662,2025-04-29,Nagpur,Nagpur,Villa,3,2,1102.5,2622.2,2,11,1,19.2,2.7,2.1,False,False,Fair,Solar,11069067.11
+663,2025-06-08,Pune,Pune,Villa,2,1,1104.9,2395.9,3,14,0,17.4,8.0,4.9,False,True,Good,Solar,11334688.19
+664,2024-11-04,Pune,Pune,Apartment,3,2,1503.1,2304.2,1,5,2,18.9,2.5,2.0,True,True,Good,Gas,15280349.68
+665,2025-11-15,Nagpur,Nagpur,Villa,1,2,760.5,1736.9,2,35,0,19.6,4.1,3.4,False,True,Good,Gas,7645263.31
+666,2024-07-01,Thane,Thane,Villa,1,1,1167.0,2750.9,3,20,3,24.3,5.8,3.0,True,True,Fair,Electric,11440492.37
+667,2025-03-11,Pune,Pune,Villa,3,3,1471.8,2949.2,1,4,3,8.3,2.9,3.3,False,False,Poor,Solar,14787870.23
+668,2024-06-13,Mumbai,Mumbai,Independent House,3,2,1557.6,2581.8,3,10,0,19.1,1.7,4.1,True,False,Poor,Solar,15530826.05
+669,2025-12-30,Nagpur,Nagpur,Independent House,2,2,946.2,2062.7,2,27,3,11.1,6.7,3.8,False,False,Fair,Gas,9142438.15
+670,2025-04-20,Mumbai,Mumbai,Apartment,4,4,1810.8,2373.1,2,5,2,8.7,8.3,4.2,False,False,Poor,Electric,17317992.8
+671,2024-01-18,Nagpur,Nagpur,Villa,2,2,796.1,1350.2,3,16,2,30.9,1.2,2.8,False,False,Excellent,Solar,8302495.19
+672,2025-12-06,Nagpur,Nagpur,Independent House,5,6,2119.6,3069.4,1,25,0,5.9,2.3,3.5,False,False,Poor,Gas,21891743.04
+673,2024-01-23,Nagpur,Nagpur,Independent House,2,3,1928.2,4314.2,1,40,3,21.0,7.5,3.0,False,False,Fair,Solar,17802621.08
+674,2025-12-06,Nashik,Nashik,Villa,1,1,906.6,1721.9,2,12,1,28.1,1.4,3.7,True,False,Excellent,Solar,8289419.95
+675,2024-08-18,Pune,pune,Villa,2,2,1245.7,2080.4,1,0,3,26.6,3.5,3.4,False,True,Good,Gas,12723411.61
+676,2024-12-20,Nashik,Nashik,Apartment,2,2,882.7,1490.9,3,37,2,22.1,5.3,3.7,False,False,Poor,Solar,7961289.41
+677,2024-10-25,Nashik,Nashik,Villa,1,2,883.7,1288.3,1,24,0,25.6,6.1,3.0,True,False,Poor,Gas,8334252.46
+678,2024-05-06,Thane,Thane,Apartment,4,4,1869.6,3186.1,1,36,2,22.7,5.4,2.7,True,False,Good,Gas,18689635.39
+679,2025-05-29,Nashik,Nashik,Villa,1,2,1216.8,2275.6,2,25,1,17.3,6.4,3.0,False,True,Good,Electric,11502407.57
+680,2025-10-30,Thane,Thane,Villa,1,1,942.0,1563.7,1,11,2,30.8,6.9,4.1,True,False,Poor,Gas,8880568.0
+681,2024-01-24,Nashik,Nashik,Independent House,1,2,1045.4,1886.6,1,39,3,37.9,3.9,2.7,False,True,Poor,Solar,9404429.98
+682,2024-02-01,Mumbai,Mumbai,Villa,1,1,1173.4,2478.5,1,23,1,19.4,7.4,2.6,True,False,Poor,Gas,10697276.8
+683,2025-11-29,Mumbai,Mumbai,Independent House,1,1,1280.8,2305.9,1,29,2,35.0,9.2,2.7,True,True,Poor,Electric,11555288.0
+684,2025-02-13,Nashik,Nashik,Independent House,3,4,1969.5,2500.1,3,34,0,18.1,8.4,2.2,False,True,Poor,Electric,19168141.3
+685,2024-04-09,Nashik,Nashik,Independent House,3,4,1554.5,3281.2,2,7,3,26.6,2.3,2.7,False,True,Excellent,Electric,15837924.99
+686,2025-06-18,Pune,Pune,Apartment,2,2,1968.8,2979.5,2,21,2,31.7,7.3,3.7,True,True,Fair,Solar,18685345.69
+687,2024-10-26,Thane,Thane,Villa,3,2,1230.1,2444.8,2,36,3,27.3,2.4,4.4,True,True,Good,Gas,12867213.75
+688,2025-01-18,Thane,Thane,Villa,2,3,1891.9,2768.2,3,0,3,19.6,9.1,4.9,True,False,Good,Solar,18046495.68
+689,2025-05-25,Nashik,Nashik,Independent House,1,1,928.5,1466.4,2,4,1,9.7,3.5,4.3,True,True,Excellent,Solar,9793165.77
+690,2025-04-02,Mumbai,Mumbai,Apartment,4,3,1994.7,3209.5,1,12,3,25.4,9.6,3.5,False,True,Good,Electric,19256125.57
+691,2024-05-15,Mumbai,Mumbai,Apartment,4,3,1592.9,3290.2,2,14,1,2.6,6.5,3.7,True,True,Good,Gas,16563301.77
+692,2024-07-21,Nagpur,,Independent House,3,3,1532.2,,1,6,2,31.8,,,False,True,Good,,16144799.48
+693,2025-09-07,Nagpur,Nagpur,Independent House,2,2,853.1,1798.3,2,7,1,24.0,6.7,4.3,True,False,Good,Electric,8758966.11
+694,2025-05-14,Pune,pune,Independent House,2,2,899.8,2082.3,1,16,2,11.7,6.1,2.9,False,True,Poor,Electric,9209822.78
+695,2024-11-10,Pune,Pune,Villa,3,4,1595.6,1966.4,2,19,2,25.9,5.8,2.5,True,True,Poor,Gas,16370684.42
+696,2025-04-30,Thane,Thane,Villa,1,2,1043.3,1620.6,1,9,3,31.6,8.7,3.8,True,False,Fair,Gas,9253704.61
+697,2025-02-17,Mumbai,Mumbai,Villa,4,4,2015.5,3081.2,3,9,2,33.3,3.8,2.9,False,False,Fair,Solar,19632769.83
+698,2025-07-27,Thane,Thane,Apartment,3,2,1963.0,2732.6,3,12,2,12.5,4.4,3.0,False,False,Poor,Electric,17975839.01
+699,2024-10-13,Pune,Pune,Independent House,3,4,1792.2,4333.8,3,30,3,38.1,9.5,4.3,False,False,Poor,Gas,17093427.09
+700,2025-08-26,Pune,Pune,Apartment,4,5,2074.1,3553.7,2,23,0,19.4,8.9,2.2,False,True,Excellent,Electric,20858023.0
+701,2024-08-07,Nagpur,Nagpur,Villa,4,4,1519.6,2801.2,2,35,0,6.5,7.9,4.6,False,False,Good,Electric,15542035.33
+702,2024-03-02,Thane,Thane,Independent House,3,3,1284.2,2497.8,1,16,1,5.6,4.7,3.2,False,True,Fair,Gas,13498624.53
+703,2024-03-30,Thane,,Villa,1,1,300.0,,3,34,2,25.7,,,True,True,Good,,2825981.43
+704,2025-12-10,Thane,Thane,Villa,3,3,1557.0,3651.3,3,28,1,26.4,1.7,3.9,False,False,Excellent,Electric,14817152.52
+705,2025-08-11,Pune,Pune,Independent House,2,1,1449.7,2051.7,2,0,1,11.1,3.0,4.0,False,False,Good,Gas,13970580.27
+706,2024-07-25,Pune,Pune,Villa,2,1,1548.9,2860.5,1,1,1,22.1,9.6,3.0,False,True,Fair,Gas,14622466.86
+707,2025-04-02,Mumbai,Mumbai,Apartment,3,2,1822.3,4243.6,2,8,0,33.5,4.4,3.3,True,False,Good,Electric,17573806.65
+708,2024-07-14,Nagpur,Nagpur,Apartment,1,2,1282.4,2711.3,1,37,1,30.5,2.1,3.5,False,False,Fair,Electric,11543025.37
+709,2025-10-29,Nagpur,Nagpur,Independent House,2,1,1491.9,2434.9,2,0,3,38.5,1.9,3.1,False,True,Excellent,Solar,14703325.69
+710,2025-12-12,Pune,Pune,Apartment,2,1,1192.0,2528.7,2,17,0,6.5,3.2,3.7,True,True,Excellent,Solar,11983817.09
+711,2024-06-15,Mumbai,Mumbai,Apartment,4,4,1824.2,3583.8,1,23,3,7.7,9.4,4.9,True,False,Fair,Electric,17746354.12
+712,2025-07-06,Mumbai,Mumbai,Independent House,1,2,727.5,829.2,1,20,2,2.1,5.2,4.2,True,False,Good,Gas,6920789.42
+713,2025-10-14,Thane,thane,Villa,2,1,1874.4,4655.0,1,26,3,19.1,4.7,4.7,False,True,Poor,Electric,17986829.57
+714,2024-04-07,Mumbai,Mumbai,Villa,4,5,2006.3,3548.9,3,6,1,5.9,5.6,4.4,True,True,Excellent,Gas,21383749.37
+715,2025-10-09,Nagpur,Nagpur,Apartment,4,4,1547.5,3241.6,2,21,2,30.6,2.2,3.3,True,True,Good,Gas,16516470.1
+716,2025-04-09,Pune,Pune,Independent House,2,1,1582.1,2454.7,3,25,3,19.9,4.1,3.9,False,False,Poor,Gas,14711493.57
+717,2025-06-15,Nashik,Nashik,Villa,3,3,1476.9,3685.4,1,21,2,14.3,8.8,4.3,False,True,Poor,Solar,14386294.98
+718,2025-06-07,Nagpur,Nagpur,Independent House,3,2,2118.0,4791.2,1,29,2,5.9,4.1,3.4,True,True,Good,Gas,20863109.76
+719,2024-04-12,Pune,,Independent House,4,5,1761.8,,3,9,0,32.2,,,True,False,Good,,18424341.57
+720,2024-05-19,Nashik,Nashik,Villa,5,5,2189.2,3261.5,2,12,2,16.2,5.7,3.3,False,False,Excellent,Gas,22490971.85
+721,2024-06-12,Nagpur,Nagpur,Villa,2,1,1494.7,2887.1,1,39,0,30.5,2.3,3.4,True,True,Good,Gas,14769274.34
+722,2025-06-17,Mumbai,,Apartment,3,2,1596.7,,3,25,1,9.0,,,False,True,Poor,,15770862.31
+723,2025-03-12,Nagpur,Nagpur,Independent House,1,2,1275.2,2213.9,1,39,2,35.1,9.5,2.1,False,True,Poor,Electric,11261982.53
+724,2024-09-14,Nashik,Nashik,Villa,4,5,1537.0,3552.2,1,38,3,33.6,9.7,3.3,True,False,Poor,Solar,15410225.26
+725,2025-07-28,Nagpur,Nagpur,Independent House,3,2,2237.0,4694.0,2,6,1,23.8,3.0,3.3,False,True,Poor,Solar,21051099.15
+726,2024-02-10,Nagpur,Nagpur,Villa,1,1,369.3,462.0,3,38,0,23.4,2.1,4.3,False,False,Poor,Solar,3263687.51
+727,2024-01-30,Nagpur,Nagpur,Villa,3,4,1590.1,3238.6,1,27,1,23.1,1.2,4.8,True,False,Fair,Solar,16032379.1
+728,2025-07-14,Thane,Thane,Independent House,1,1,749.0,1645.8,2,28,3,28.3,6.7,4.3,True,True,Poor,Electric,8104976.92
+729,2025-09-28,Nashik,Nashik,Apartment,3,2,1559.4,2483.4,3,21,1,13.3,3.8,4.7,True,False,Poor,Gas,15285806.49
+730,2025-09-25,Nagpur,Nagpur,Apartment,2,2,1427.8,3361.2,1,28,1,13.6,2.0,3.7,False,True,Excellent,Gas,14532507.85
+731,2024-08-18,Nashik,Nashik,Apartment,3,3,1235.4,1611.0,2,16,2,16.5,9.3,2.3,False,True,Good,Solar,11831839.48
+732,2024-09-06,Nashik,Nashik,Independent House,3,3,2381.2,5397.1,1,14,1,35.1,5.0,4.4,True,True,Poor,Electric,24137990.6
+733,2025-03-17,Nashik,Nashik,Apartment,2,1,956.2,1300.8,3,26,3,25.5,9.0,4.9,False,False,Fair,Solar,8994737.12
+734,2025-09-10,Mumbai,Mumbai,Villa,1,1,715.2,1583.3,3,15,1,4.8,9.3,5.0,False,False,Good,Electric,7289722.17
+735,2025-12-24,Nagpur,Nagpur,Independent House,2,3,1385.9,2489.0,2,28,0,38.2,2.5,3.7,True,False,Fair,Gas,13982644.24
+736,2025-07-05,Nashik,Nashik,Villa,3,4,1885.8,3958.4,2,1,3,28.5,9.5,5.0,True,False,Fair,Gas,18629344.64
+737,2025-09-20,Mumbai,Mumbai,Villa,1,1,575.3,1422.2,3,34,2,34.6,9.7,2.2,False,True,Good,Solar,4795894.42
+738,2025-12-14,Nagpur,Nagpur,Villa,2,1,1976.2,3970.6,2,1,0,13.9,1.8,3.2,False,False,Good,Gas,19449900.16
+739,2024-04-06,Nagpur,Nagpur,Apartment,2,2,1382.8,1696.7,2,31,3,8.8,4.2,3.9,True,False,Excellent,Solar,13545879.58
+740,2024-07-12,Pune,Pune,Villa,2,1,1950.3,2179.6,2,33,3,12.9,8.2,3.7,False,True,Good,Solar,18293571.31
+741,2025-09-29,Mumbai,Mumbai,Independent House,4,3,1590.8,2583.3,1,38,3,28.5,8.9,2.5,True,False,Excellent,Electric,15638220.58
+742,2025-02-02,Thane,Thane,Apartment,4,3,1719.2,3139.0,1,37,3,8.5,2.4,3.8,False,False,Excellent,Electric,16835618.24
+743,2025-06-23,Nashik,Nashik,Independent House,3,2,1506.6,1744.9,1,25,3,32.6,9.2,4.1,True,True,Poor,Solar,15073567.81
+744,2025-07-28,Nashik,Nashik,Villa,1,1,1246.6,1882.6,3,12,3,16.8,4.4,3.5,False,True,Fair,Electric,11810187.29
+745,2025-07-01,Mumbai,,Villa,5,6,2357.2,,1,3,1,37.9,,,True,False,Poor,,23955495.56
+746,2025-12-30,Pune,Pune,Independent House,3,3,1129.3,2070.7,1,32,2,27.6,1.4,2.6,False,True,Good,Electric,11897120.75
+747,2024-08-21,Nagpur,Nagpur,Villa,2,1,1692.0,2349.3,3,24,0,37.0,1.0,2.7,False,True,Excellent,Gas,16431399.03
+748,2025-03-01,Mumbai,Mumbai,Villa,4,4,1736.6,3564.4,3,27,2,9.0,8.9,4.2,False,False,Fair,Gas,17284251.51
+749,2025-05-15,Pune,Pune,Independent House,4,3,1735.6,3591.8,1,40,3,6.0,7.2,2.2,True,True,Fair,Gas,17103078.81
+750,2025-07-22,Mumbai,Mumbai,Apartment,4,5,1861.0,2789.1,2,25,2,34.4,3.4,4.3,False,True,Good,Solar,18909334.32
+751,2024-05-26,Nagpur,Nagpur,Apartment,3,2,2062.3,2378.4,2,14,1,4.3,7.2,2.2,False,False,Good,Gas,19458509.52
+752,2024-10-25,Pune,Pune,Apartment,1,1,1476.5,3400.8,2,21,1,14.7,2.8,3.9,False,False,Good,Solar,13488033.21
+753,2025-02-23,Mumbai,Mumbai,Apartment,3,2,1751.0,2096.1,1,28,2,22.7,2.3,4.9,True,True,Good,Solar,17999598.73
+754,2025-07-12,Thane,Thane,Independent House,2,1,1938.7,2148.6,1,14,0,32.7,7.9,2.4,True,True,Poor,Solar,18238159.94
+755,2025-04-10,Pune,Pune,Villa,3,3,1249.9,2967.6,1,28,3,24.9,4.1,5.0,False,False,Good,Gas,12181990.29
+756,2025-10-03,Pune,Pune,Villa,2,2,1314.0,2122.5,1,10,3,32.4,2.3,3.4,True,False,Poor,Electric,13350217.6
+757,2025-01-07,Thane,Thane,Independent House,1,1,968.1,1522.7,3,23,3,6.2,5.8,2.7,True,True,Poor,Electric,9666466.62
+758,2024-08-10,Pune,Pune,Apartment,1,1,1285.9,2391.7,2,6,2,36.3,9.6,4.6,False,True,Poor,Solar,11936494.79
+759,2024-07-21,Thane,Thane,Villa,1,2,410.8,673.8,3,13,1,11.7,7.7,3.7,True,False,Poor,Gas,4668703.77
+760,2024-04-02,Nashik,Nashik,Villa,3,3,1678.6,4039.2,3,39,0,27.4,8.1,2.3,True,True,Good,Solar,16256831.05
+761,2024-06-16,Pune,Pune,Independent House,2,2,1702.4,4039.6,3,39,3,19.5,7.3,2.9,True,True,Poor,Gas,16434676.51
+762,2025-05-03,Nagpur,Nagpur,Apartment,2,2,848.4,2092.5,3,15,1,36.5,1.9,2.1,False,False,Fair,Electric,8000675.47
+763,2024-04-23,Pune,Pune,Independent House,1,1,1227.2,1940.7,2,36,0,35.6,1.6,2.4,False,False,Good,Solar,10712435.63
+764,2025-06-09,Pune,Pune,Independent House,1,1,1161.2,2876.4,2,38,0,25.3,6.3,5.0,False,False,Excellent,Electric,10740249.5
+765,2025-07-18,Nashik,Nashik,Independent House,3,2,1373.8,2017.3,2,19,2,2.6,7.7,4.3,False,True,Excellent,Solar,14063098.44
+766,2024-05-15,Nashik,Nashik,Independent House,1,1,1120.1,1841.1,3,24,2,28.2,4.0,4.4,False,False,Fair,Solar,10064886.9
+767,2025-01-17,Pune,Pune,Independent House,2,2,1642.8,3659.6,2,5,0,1.9,2.2,4.3,True,True,Good,Gas,17039571.11
+768,2025-09-19,Mumbai,Mumbai,Independent House,2,3,1545.6,3583.1,3,21,0,7.1,6.6,4.6,False,False,Good,Gas,14822887.77
+769,2025-12-26,Pune,Pune,Independent House,3,2,2494.3,2757.2,3,5,1,9.2,7.5,3.2,True,False,Good,Electric,23489131.89
+770,2024-07-11,Mumbai,Mumbai,Villa,1,1,1322.1,2393.9,1,11,1,39.0,3.4,4.6,True,True,Good,Gas,13371915.14
+771,2024-06-14,Nashik,Nashik,Apartment,1,2,749.9,1356.8,2,26,1,17.6,8.4,4.2,True,False,Poor,Electric,7533866.33
+772,2025-04-06,Nashik,Nashik,Villa,3,2,1644.5,1836.6,3,28,0,13.4,7.9,4.7,True,False,Fair,Electric,15860960.02
+773,2025-04-20,Nagpur,Nagpur,Apartment,3,4,1320.1,1873.7,1,12,0,27.9,4.7,4.6,False,False,Poor,Electric,13677215.66
+774,2024-04-07,Pune,pune,Villa,4,4,2466.0,3228.3,2,40,0,17.9,8.4,4.7,True,True,Good,Electric,24075161.12
+775,2025-05-14,Pune,Pune,Apartment,2,1,1445.4,3269.1,3,19,2,9.9,5.4,4.2,False,False,Fair,Gas,13628233.89
+776,2025-10-07,Nashik,Nashik,Independent House,3,4,1903.4,2470.7,3,18,3,32.3,4.7,2.0,False,True,Poor,Solar,18810791.96
+777,2024-08-02,Pune,Pune,Independent House,3,3,1689.8,3768.2,1,23,2,23.0,5.3,2.1,False,False,Good,Electric,16187645.4
+778,2025-05-15,Pune,Pune,Apartment,1,1,781.9,1233.0,2,35,1,36.2,9.7,4.3,True,True,Fair,Solar,6912886.19
+779,2025-02-02,Nagpur,Nagpur,Villa,2,3,1860.4,2258.2,2,20,3,24.5,9.0,4.9,False,True,Good,Electric,17737540.32
+780,2025-07-03,Thane,Thane,Independent House,2,1,1600.5,1767.4,2,40,3,22.9,8.1,4.9,False,False,Good,Solar,14375246.94
+781,2024-07-28,Nashik,Nashik,Apartment,1,2,1169.4,2143.4,3,12,2,10.7,4.4,4.1,True,False,Excellent,Solar,11273380.28
+782,2024-07-21,Nashik,Nashik,Villa,2,2,1176.8,2030.4,2,9,1,24.2,7.8,2.3,False,False,Fair,Gas,10807375.8
+783,2025-02-09,Nashik,Nashik,Independent House,1,1,1122.1,2597.5,3,3,3,15.4,3.8,4.2,True,False,Excellent,Solar,10793071.22
+784,2024-04-04,Pune,Pune,Villa,3,2,1367.4,1611.1,3,32,1,20.4,9.3,2.4,True,True,Fair,Gas,13877106.62
+785,2024-04-28,Pune,Pune,Villa,1,1,788.9,936.4,2,34,3,28.1,5.9,2.3,True,False,Good,Gas,7304781.19
+786,2025-01-31,Nashik,Nashik,Independent House,3,2,2211.1,3914.1,1,14,1,30.6,9.5,4.9,True,False,Poor,Gas,21157450.8
+787,2025-08-18,Mumbai,Mumbai,Independent House,1,2,1087.3,2033.4,1,26,1,24.0,2.9,3.7,True,False,Good,Electric,10365149.62
+788,2024-11-30,Pune,Pune,Villa,4,5,1643.6,2455.6,3,39,2,20.9,2.4,2.6,False,False,Excellent,Solar,16700540.7
+789,2024-11-01,Thane,Thane,Independent House,3,4,1473.3,3209.0,1,32,1,5.4,4.5,2.3,True,True,Good,Solar,15301826.0
+790,2025-05-26,Pune,Pune,Villa,2,3,1695.7,2410.8,2,40,1,20.9,3.8,2.6,True,False,Fair,Electric,15763701.35
+791,2024-10-07,Mumbai,Mumbai,Villa,3,3,2175.2,4100.6,2,30,1,4.0,2.0,2.0,True,True,Poor,Electric,21446629.81
+792,2024-05-02,Mumbai,Mumbai,Villa,1,1,1330.3,1864.3,1,23,3,29.9,4.4,2.8,True,False,Poor,Gas,11430713.09
+793,2025-12-20,Mumbai,Mumbai,Apartment,5,4,2017.7,2712.6,1,30,0,29.3,5.1,4.7,False,False,Good,Gas,20224074.2
+794,2025-05-05,Nashik,Nashik,Villa,3,2,2190.5,3735.9,2,31,3,7.8,1.1,4.7,True,False,Excellent,Solar,21366666.24
+795,2024-10-20,Mumbai,Mumbai,Independent House,1,2,1360.5,3040.1,3,28,0,35.1,8.5,3.3,False,True,Fair,Electric,13181391.75
+796,2024-12-21,Nagpur,Nagpur,Apartment,3,4,1769.6,3745.6,3,23,1,13.5,6.8,3.2,False,False,Poor,Solar,16786286.22
+797,2025-06-02,Nashik,Nashik,Independent House,2,1,1043.9,1518.4,1,38,2,37.1,6.8,3.4,True,True,Good,Solar,9979832.26
+798,2024-01-05,Thane,Thane,Independent House,3,2,1114.6,1443.8,1,36,3,4.2,4.8,2.3,True,True,Good,Solar,11895904.4
+799,2024-08-19,Mumbai,Mumbai,Villa,3,3,1614.3,2511.4,2,7,3,21.4,8.4,2.7,False,False,Good,Solar,16026761.55
+800,2024-01-17,Mumbai,Mumbai,Apartment,2,3,1755.5,3148.1,1,6,2,10.4,4.7,4.5,True,True,Good,Gas,17702071.09
+801,2024-08-01,Nashik,Nashik,Independent House,2,2,1854.1,4508.0,2,28,2,26.8,1.1,3.8,False,False,Poor,Solar,16923440.56
+802,2025-09-27,Thane,Thane,Independent House,2,1,1390.2,2151.3,1,31,2,28.3,8.8,3.2,True,False,Poor,Gas,12685656.81
+803,2024-09-04,Nashik,Nashik,Villa,1,1,565.1,1051.9,1,16,1,29.2,7.4,4.8,False,False,Excellent,Electric,5691201.82
+804,2024-07-04,Thane,Thane,Independent House,2,1,1182.0,1979.7,1,39,1,24.1,7.1,2.1,False,True,Poor,Solar,11450548.86
+805,2024-03-19,Pune,Pune,Villa,3,2,1410.1,2520.6,2,33,2,34.3,1.4,3.8,False,True,Good,Gas,13885065.01
+806,2024-04-13,Mumbai,Mumbai,Apartment,2,1,872.5,1013.4,1,24,1,14.3,7.1,4.5,True,False,Excellent,Electric,8867235.2
+807,2024-03-30,Mumbai,Mumbai,Independent House,1,1,611.0,1440.0,2,33,0,17.3,1.3,3.3,False,True,Fair,Electric,6109049.72
+808,2024-03-09,Nagpur,Nagpur,Independent House,1,1,587.0,778.8,3,1,1,26.9,5.0,5.0,False,False,Good,Solar,6140145.85
+809,2025-06-27,Thane,thane,Apartment,1,1,952.4,1448.1,3,9,3,1.4,1.5,4.4,True,False,Fair,Gas,9786688.72
+810,2025-06-06,Pune,Pune,Apartment,3,4,2075.4,3672.7,1,30,0,7.7,6.0,3.9,True,True,Poor,Solar,20327750.28
+811,2025-02-08,Nashik,,Independent House,2,1,1693.7,,3,40,2,37.6,,,False,True,Fair,,15455066.07
+812,2025-03-19,Mumbai,Mumbai,Villa,1,2,595.5,1054.7,3,8,3,26.2,7.8,2.5,False,False,Excellent,Solar,5714682.07
+813,2025-04-26,Nashik,Nashik,Villa,3,4,2407.9,3894.3,2,2,2,19.1,8.3,4.8,False,False,Good,Electric,23536219.6
+814,2024-09-02,Nashik,Nashik,Villa,2,3,1101.1,2161.4,1,33,2,25.5,9.4,4.6,True,False,Fair,Gas,11043012.87
+815,2025-12-30,Nashik,Nashik,Villa,3,3,1776.6,3441.0,3,16,1,31.0,9.0,2.4,False,True,Good,Electric,16907357.8
+816,2024-10-04,Nagpur,Nagpur,Villa,3,4,1231.2,2455.1,1,18,2,8.1,6.8,3.5,True,False,Fair,Gas,12649114.02
+817,2025-08-04,Thane,Thane,Villa,1,1,1494.3,3701.9,1,35,0,8.4,9.4,4.8,False,False,Excellent,Electric,13465300.96
+818,2024-10-11,Mumbai,Mumbai,Independent House,1,1,1098.1,1802.6,1,27,1,8.1,4.3,4.4,True,True,Fair,Gas,10670871.56
+819,2024-09-03,Nagpur,,Independent House,4,4,1740.8,,3,13,0,1.4,,,False,False,Fair,,16979786.97
+820,2025-08-07,Mumbai,Mumbai,Villa,1,2,1277.6,1971.8,1,37,1,32.4,8.4,2.6,True,True,Poor,Gas,12134657.35
+821,2024-08-06,Nagpur,Nagpur,Apartment,3,2,2296.7,4486.5,1,29,1,11.9,1.0,4.0,False,False,Poor,Solar,22094399.68
+822,2025-05-26,Mumbai,Mumbai,Villa,2,3,1231.9,1394.9,2,24,1,35.4,5.4,4.4,False,False,Poor,Solar,11802432.48
+823,2025-09-06,Nagpur,Nagpur,Apartment,2,3,1577.1,2106.7,2,24,1,9.5,4.2,2.8,False,True,Good,Solar,15670431.54
+824,2024-12-22,Nashik,Nashik,Villa,1,1,1322.6,2094.0,2,36,0,20.1,7.5,4.7,True,False,Fair,Electric,11745589.99
+825,2025-09-22,Mumbai,Mumbai,Apartment,4,5,1692.0,3280.3,1,33,0,39.2,4.3,4.3,True,True,Fair,Gas,17732554.82
+826,2024-02-23,Thane,Thane,Independent House,1,1,1121.0,2580.5,2,9,1,9.9,3.8,3.6,True,True,Good,Electric,11289033.3
+827,2025-07-20,Nagpur,Nagpur,Independent House,1,1,360.5,804.2,1,1,0,3.6,1.9,4.5,True,True,Good,Gas,4636023.0
+828,2024-06-08,Nagpur,Nagpur,Apartment,1,1,1185.6,2576.2,3,10,0,20.5,9.1,3.2,True,True,Fair,Solar,11440040.38
+829,2025-07-17,Nagpur,Nagpur,Villa,3,2,1615.2,3390.0,1,7,0,3.6,4.4,2.0,False,False,Poor,Solar,15348955.52
+830,2025-09-06,Mumbai,Mumbai,Villa,4,5,1938.0,4171.1,3,25,3,7.5,8.7,2.4,True,True,Excellent,Solar,19699189.05
+831,2025-02-09,Nashik,Nashik,Apartment,3,3,1904.7,2933.9,1,1,0,9.4,8.0,4.3,False,True,Good,Electric,18896037.8
+832,2024-02-24,Nashik,Nashik,Villa,3,3,1490.7,3481.4,2,23,1,17.2,1.5,4.8,True,False,Poor,Gas,15407462.52
+833,2024-05-29,Mumbai,Mumbai,Independent House,3,4,1118.3,1293.6,2,30,0,14.7,2.7,4.8,True,True,Fair,Gas,12150234.24
+834,2025-03-19,Nagpur,Nagpur,Apartment,4,4,1847.1,3191.2,2,1,3,14.5,3.9,3.1,True,False,Excellent,Gas,18911085.48
+835,2024-08-13,Nagpur,Nagpur,Villa,4,5,1944.6,4130.4,3,28,2,6.6,7.9,2.6,False,False,Excellent,Gas,18960700.28
+836,2024-08-12,Mumbai,Mumbai,Apartment,3,2,1721.8,3212.6,2,27,1,1.0,1.6,4.6,False,False,Poor,Gas,17126908.25
+837,2024-01-23,Pune,Pune,Villa,3,4,1986.2,4550.0,2,23,2,25.6,3.9,2.5,False,True,Fair,Solar,19689797.05
+838,2024-06-05,Nagpur,Nagpur,Independent House,2,1,1080.7,1643.1,2,37,0,33.1,6.0,4.5,True,True,Fair,Electric,11355055.68
+839,2025-03-18,Nagpur,Nagpur,Villa,2,2,1475.5,2124.0,3,5,3,38.0,7.0,4.3,True,False,Excellent,Electric,13892250.19
+840,2025-09-04,Pune,Pune,Villa,2,2,1731.8,4154.5,2,31,1,16.8,8.6,2.9,True,False,Excellent,Gas,16055537.25
+841,2025-11-26,Nashik,Nashik,Independent House,3,2,2275.8,3868.7,1,34,1,39.7,1.0,2.5,True,False,Fair,Solar,21638776.54
+842,2025-05-17,Nagpur,Nagpur,Independent House,2,2,1370.8,1582.6,3,6,0,39.5,6.5,4.5,True,True,Fair,Solar,13739532.27
+843,2024-02-02,Nashik,Nashik,Villa,4,4,1600.1,1905.6,3,8,2,7.1,8.0,3.5,False,True,Good,Solar,16560916.9
+844,2024-09-03,Pune,Pune,Independent House,2,2,959.3,1932.8,2,18,3,32.5,3.1,5.0,False,False,Good,Gas,9439600.02
+845,2025-03-21,Nagpur,Nagpur,Independent House,3,2,2084.3,5205.7,1,6,1,29.2,3.5,3.0,False,True,Fair,Solar,20493244.91
+846,2025-04-19,Nagpur,Nagpur,Villa,2,2,1641.6,2703.9,2,10,0,2.9,8.6,4.4,False,True,Fair,Electric,16434051.59
+847,2024-12-08,Nagpur,Nagpur,Apartment,4,4,1798.6,4390.9,3,20,1,1.3,8.0,4.9,False,True,Good,Solar,18662194.2
+848,2025-05-28,Nagpur,Nagpur,Apartment,1,2,503.5,848.4,1,11,2,28.7,8.2,3.1,True,True,Fair,Solar,5022079.51
+849,2025-04-12,Thane,Thane,Villa,3,3,1056.6,1740.3,3,33,1,18.0,9.5,4.4,False,False,Excellent,Electric,9888301.32
+850,2024-08-22,Mumbai,Mumbai,Independent House,1,1,403.5,968.7,3,26,1,37.0,8.5,2.7,False,False,Fair,Electric,2803002.28
+851,2025-10-17,Thane,Thane,Independent House,1,1,1440.7,2066.8,1,28,3,2.9,1.7,4.4,False,True,Excellent,Electric,14239707.42
+852,2024-03-22,Nagpur,Nagpur,Apartment,4,5,1845.6,4044.7,1,18,3,22.9,4.0,3.6,True,True,Poor,Gas,19256891.28
+853,2024-10-22,Mumbai,Mumbai,Independent House,5,5,2437.9,4925.6,3,10,2,17.2,9.2,2.6,True,False,Excellent,Gas,24625078.89
+854,2025-11-15,Nagpur,Nagpur,Apartment,4,3,2510.3,5497.8,2,4,1,5.4,5.1,2.4,False,True,Fair,Gas,24697785.04
+855,2024-01-31,Nashik,Nashik,Villa,1,2,1200.7,2540.0,3,16,0,39.7,2.5,3.0,True,False,Poor,Gas,11581315.28
+856,2025-04-13,Thane,Thane,Independent House,3,2,1804.5,2465.3,3,10,3,31.2,7.7,2.2,True,False,Fair,Gas,16728030.52
+857,2024-05-17,Mumbai,Mumbai,Independent House,2,1,1610.1,2572.3,3,36,2,26.3,4.7,4.5,False,False,Excellent,Solar,14654964.54
+858,2024-11-03,Mumbai,Mumbai,Apartment,4,5,1884.0,2388.3,1,21,2,10.6,5.8,3.3,True,True,Fair,Electric,19839115.75
+859,2025-12-29,Pune,Pune,Apartment,3,2,1905.8,3067.1,2,33,2,29.8,4.7,2.1,False,False,Excellent,Electric,17633534.09
+860,2025-11-04,Thane,Thane,Villa,5,5,2525.8,3424.2,1,7,0,10.0,3.5,4.5,True,False,Excellent,Electric,26134215.29
+861,2025-01-04,Nagpur,Nagpur,Apartment,4,4,1955.6,4180.2,1,17,0,4.7,9.5,2.0,False,True,Fair,Gas,19370571.59
+862,2024-09-01,Thane,Thane,Apartment,1,1,960.0,1282.3,3,21,0,25.6,1.2,2.7,True,True,Fair,Solar,9370973.75
+863,2025-02-18,Pune,Pune,Villa,2,2,1739.6,2493.0,2,35,1,24.9,4.5,4.5,False,False,Fair,Electric,15608778.21
+864,2024-07-07,Thane,Thane,Independent House,2,3,1506.0,2194.2,3,26,3,1.1,2.0,3.8,False,True,Excellent,Solar,15723725.21
+865,2025-12-13,Mumbai,mumbai,Apartment,2,1,1506.0,3198.5,3,2,3,6.2,3.0,4.9,True,True,Fair,Gas,15875074.66
+866,2025-02-02,Pune,Pune,Independent House,3,2,1233.5,1918.3,2,23,3,26.7,7.1,3.3,True,True,Good,Electric,12619769.06
+867,2024-04-23,Nagpur,Nagpur,Apartment,1,1,1100.9,1878.9,1,0,0,31.5,8.5,4.2,False,True,Fair,Electric,10605077.57
+868,2024-10-03,Nagpur,Nagpur,Apartment,3,4,1878.7,3609.2,2,4,2,26.1,5.0,4.1,False,False,Poor,Gas,18908130.93
+869,2024-11-13,Thane,Thane,Apartment,3,3,1863.3,4623.1,3,14,1,5.3,7.5,3.6,True,False,Excellent,Solar,18315653.86
+870,2025-03-05,Thane,Thane,Apartment,3,3,1729.4,3737.0,3,15,1,25.5,9.8,2.0,True,False,Poor,Gas,16556994.95
+871,2025-04-28,Nagpur,Nagpur,Apartment,4,4,1811.4,3757.6,2,16,1,25.5,7.0,4.9,False,True,Fair,Gas,18897533.09
+872,2024-07-28,Mumbai,Mumbai,Independent House,2,3,1794.4,3212.8,2,21,0,27.9,1.9,4.7,True,False,Excellent,Gas,17211135.98
+873,2025-10-20,Nashik,,Villa,1,2,926.3,,1,8,1,15.5,,,False,True,Good,,8653174.15
+874,2025-02-25,Pune,Pune,Apartment,1,1,1301.5,2873.1,3,16,1,2.7,7.2,3.6,True,False,Excellent,Solar,12432043.52
+875,2024-06-25,Pune,Pune,Apartment,1,1,513.3,1065.0,2,27,3,22.7,2.5,4.2,True,False,Excellent,Solar,4743042.66
+876,2025-12-04,Nashik,Nashik,Independent House,2,1,1902.2,3319.7,3,18,3,9.8,2.2,2.4,True,False,Excellent,Gas,18489669.51
+877,2024-08-22,Nagpur,Nagpur,Apartment,2,1,1439.0,1935.6,2,34,0,4.3,2.4,2.2,False,True,Fair,Solar,13803972.31
+878,2024-06-25,Nagpur,Nagpur,Villa,2,3,868.9,2049.3,3,37,2,35.6,2.4,5.0,True,False,Fair,Electric,8740456.85
+879,2025-12-18,Pune,Pune,Apartment,3,2,1477.7,2465.0,2,12,3,37.2,8.9,2.3,True,True,Poor,Electric,14840199.92
+880,2025-07-19,Thane,Thane,Independent House,5,4,2055.1,3750.8,3,3,1,32.2,3.2,2.2,True,True,Excellent,Electric,21075505.0
+881,2025-03-08,Mumbai,Mumbai,Independent House,1,1,1455.9,2601.2,1,27,1,32.3,3.0,3.9,True,False,Excellent,Solar,13792493.68
+882,2024-06-17,Nashik,Nashik,Independent House,4,4,1535.4,1753.3,1,21,0,31.2,7.2,4.6,True,True,Excellent,Gas,15758665.62
+883,2024-09-24,Nashik,Nashik,Independent House,1,1,1282.4,2573.3,1,34,0,29.0,9.9,2.9,True,False,Good,Solar,11019302.11
+884,2025-04-25,Nagpur,Nagpur,Villa,2,2,1193.5,2833.7,1,33,1,7.9,7.9,3.5,True,False,Poor,Gas,11096644.0
+885,2025-07-30,Nagpur,Nagpur,Villa,4,4,1652.2,2691.5,3,15,2,4.5,7.5,2.8,True,False,Good,Electric,16830819.99
+886,2024-07-31,Nagpur,Nagpur,Independent House,1,2,300.0,483.8,1,3,3,29.5,6.0,2.1,False,True,Poor,Solar,3402730.1
+887,2024-05-07,Thane,Thane,Independent House,1,2,379.4,515.5,1,33,0,11.4,1.4,2.4,False,False,Excellent,Electric,4541417.98
+888,2024-09-05,Nashik,Nashik,Apartment,3,2,1227.5,2980.0,2,35,1,21.1,4.4,4.3,True,False,Good,Solar,11956376.93
+889,2025-06-25,Nashik,Nashik,Apartment,2,1,890.9,1692.7,3,33,2,16.9,2.4,2.7,False,True,Fair,Electric,9069162.95
+890,2024-12-14,Nashik,Nashik,Apartment,4,4,2384.1,3923.9,2,40,2,30.5,8.8,2.1,False,True,Fair,Gas,23123234.52
+891,2025-01-12,Mumbai,Mumbai,Independent House,4,5,2565.0,4508.6,2,5,3,31.9,8.8,3.5,True,True,Good,Electric,25433258.9
+892,2024-08-09,Pune,Pune,Villa,1,2,842.9,1722.2,2,3,0,12.3,6.8,5.0,False,True,Good,Solar,9478975.78
+893,2024-02-19,Thane,Thane,Apartment,3,2,1478.9,3135.1,1,25,0,4.5,7.4,3.4,False,True,Good,Solar,14920936.87
+894,2025-06-01,Thane,Thane,Villa,4,3,2132.6,3555.0,2,8,1,2.5,4.7,2.1,True,True,Poor,Gas,21869130.04
+895,2024-04-24,Nagpur,Nagpur,Independent House,1,2,927.7,2178.7,1,33,1,9.1,1.2,4.4,True,False,Excellent,Gas,9227389.91
+896,2025-09-16,Nashik,Nashik,Apartment,3,4,1329.9,1954.2,2,31,0,38.5,9.2,4.8,True,False,Excellent,Gas,12888483.77
+897,2025-08-23,Mumbai,Mumbai,Villa,1,2,1428.0,3114.0,2,40,0,22.0,3.0,3.2,False,False,Good,Gas,13008929.55
+898,2025-12-13,Mumbai,Mumbai,Independent House,2,3,1616.2,2922.5,1,38,1,18.6,4.0,3.3,True,False,Fair,Gas,15258828.83
+899,2024-05-11,Mumbai,Mumbai,Apartment,2,1,992.5,1967.9,2,23,1,20.2,4.6,3.3,True,True,Excellent,Gas,10048053.54
+900,2024-08-05,Nashik,Nashik,Apartment,2,2,1619.2,2683.0,3,24,0,32.9,7.9,3.2,False,True,Good,Electric,15237333.23
+901,2024-09-27,Thane,Thane,Apartment,3,4,1875.0,2543.9,3,35,0,19.9,8.6,3.3,True,True,Excellent,Gas,18381732.5
+902,2024-08-05,Mumbai,Mumbai,Villa,3,3,1288.4,2035.1,1,12,3,34.7,9.2,4.2,True,False,Excellent,Gas,13187919.73
+903,2024-07-05,Thane,Thane,Independent House,4,5,1884.8,3671.5,1,1,2,39.7,6.2,2.2,False,False,Poor,Electric,18834306.03
+904,2025-06-18,Mumbai,Mumbai,Independent House,3,4,1239.0,2445.0,3,36,3,30.9,6.2,3.1,False,False,Fair,Solar,11912443.86
+905,2024-04-20,Pune,Pune,Apartment,1,1,580.6,1098.1,2,21,0,31.1,9.0,3.7,True,True,Fair,Gas,6310962.63
+906,2024-02-01,Nagpur,Nagpur,Apartment,4,5,1587.1,2651.9,3,3,0,39.6,5.3,3.2,True,False,Good,Electric,16084089.51
+907,2024-12-18,Mumbai,Mumbai,Independent House,1,2,300.0,422.6,3,38,2,26.4,9.1,3.6,True,False,Excellent,Gas,2404138.29
+908,2025-07-17,Mumbai,Mumbai,Villa,4,4,2028.2,3790.5,1,1,3,24.0,4.2,4.0,False,False,Fair,Electric,19964948.79
+909,2024-12-10,Thane,Thane,Apartment,1,1,725.9,1288.2,2,35,0,27.2,7.2,2.4,True,False,Fair,Gas,5918834.93
+910,2024-01-02,Pune,pune,Independent House,2,1,1585.8,3512.3,2,37,2,25.4,1.4,2.1,True,False,Poor,Solar,14405250.97
+911,2024-03-08,Mumbai,,Apartment,1,1,695.6,,2,7,1,3.9,,,False,True,Fair,,7601926.78
+912,2024-08-13,Nashik,Nashik,Villa,3,3,1317.6,2285.2,1,3,1,35.0,9.5,3.9,True,True,Excellent,Electric,14073122.37
+913,2024-01-20,Nashik,Nashik,Apartment,1,1,870.7,1828.4,2,3,1,29.3,7.9,3.2,True,True,Poor,Solar,8870631.58
+914,2024-07-22,Pune,Pune,Apartment,2,1,1100.1,2081.0,3,10,0,31.0,3.4,3.2,False,True,Excellent,Gas,10650107.39
+915,2024-03-21,Mumbai,Mumbai,Apartment,4,3,1916.4,3033.0,2,12,0,19.2,9.3,3.4,True,True,Poor,Gas,19276647.74
+916,2025-08-29,Nashik,Nashik,Apartment,4,5,1601.7,2058.7,2,20,2,15.7,2.7,3.3,False,False,Fair,Gas,16661655.65
+917,2025-07-01,Nagpur,Nagpur,Apartment,4,3,1817.8,3096.8,2,6,0,10.2,2.8,2.8,True,False,Poor,Solar,18640766.26
+918,2024-09-24,Pune,Pune,Villa,2,1,1688.7,1890.7,1,4,0,35.2,9.0,3.8,True,True,Good,Solar,15885846.86
+919,2024-01-30,Nagpur,Nagpur,Independent House,1,2,719.6,1232.8,2,38,1,35.1,5.9,4.6,True,False,Poor,Solar,6580891.45
+920,2025-06-14,Nagpur,Nagpur,Apartment,5,6,2368.4,4026.7,3,40,0,18.7,7.3,3.2,False,True,Excellent,Electric,23759146.91
+921,2025-07-06,Nashik,Nashik,Apartment,2,1,1544.3,2088.9,3,10,2,13.8,2.4,5.0,False,True,Fair,Electric,15000479.94
+922,2025-03-16,Pune,Pune,Independent House,2,3,764.1,918.3,3,11,1,13.8,4.6,3.4,True,False,Fair,Solar,7977828.4
+923,2024-11-01,Pune,Pune,Villa,3,2,2335.7,5180.0,3,21,1,26.8,5.9,4.9,False,False,Excellent,Solar,21386345.18
+924,2025-05-04,Nagpur,Nagpur,Independent House,4,5,1898.6,3305.6,1,32,3,4.6,9.3,2.7,False,False,Good,Gas,18706051.42
+925,2025-05-24,Thane,Thane,Apartment,4,3,2001.8,2379.9,3,39,3,20.3,5.8,3.2,True,False,Good,Electric,19225339.26
+926,2025-12-13,Mumbai,Mumbai,Apartment,3,2,1171.3,1810.3,3,34,0,16.5,2.7,3.9,True,False,Fair,Electric,11701465.28
+927,2024-09-14,Nashik,Nashik,Independent House,2,2,990.5,1142.7,3,36,0,7.5,9.1,2.5,False,False,Poor,Electric,9378053.69
+928,2025-07-13,Pune,Pune,Independent House,2,3,1225.1,1666.1,1,18,1,27.7,7.7,4.5,False,True,Excellent,Electric,12134188.07
+929,2024-08-14,Thane,Thane,Apartment,3,4,1178.7,1604.5,2,20,3,7.9,9.5,3.2,True,False,Fair,Solar,12205446.47
+930,2024-11-28,Thane,,Villa,1,1,907.0,,3,32,3,15.4,,,False,False,Poor,,8072488.4
+931,2024-07-22,Mumbai,Mumbai,Independent House,1,1,1409.5,2790.0,1,19,0,37.1,2.0,3.4,False,True,Fair,Solar,13497154.97
+932,2024-06-26,Pune,Pune,Apartment,2,2,1577.9,2607.3,1,13,2,12.5,2.0,4.5,True,True,Poor,Electric,16562002.64
+933,2024-03-30,Nashik,Nashik,Villa,1,1,1329.8,2295.6,2,27,0,1.6,6.6,4.9,True,True,Good,Electric,12278474.03
+934,2024-05-12,Nashik,Nashik,Independent House,1,2,1044.9,1915.6,3,37,0,24.6,8.5,4.3,True,False,Fair,Electric,9855551.82
+935,2025-05-19,Pune,Pune,Independent House,3,4,1641.3,2761.5,2,27,3,31.9,5.0,3.3,False,True,Fair,Solar,16466746.85
+936,2024-05-01,Thane,Thane,Independent House,4,4,1817.1,3072.3,2,37,2,31.7,8.6,2.9,True,False,Poor,Electric,17490779.39
+937,2025-10-20,Pune,Pune,Apartment,4,3,2646.4,3488.9,2,2,2,25.9,6.3,4.6,True,True,Fair,Electric,26384663.53
+938,2025-06-21,Thane,Thane,Villa,3,3,1547.9,2833.5,3,2,3,22.7,2.6,2.3,False,False,Poor,Gas,15287666.07
+939,2024-10-21,Nashik,Nashik,Apartment,1,1,525.5,1239.3,2,28,2,26.1,2.3,2.0,False,True,Good,Gas,5134820.18
+940,2024-04-04,Thane,Thane,Independent House,1,2,1260.8,1723.0,1,8,1,8.8,2.3,4.5,True,False,Excellent,Gas,11948401.15
+941,2024-07-04,Pune,Pune,Villa,1,1,985.9,2074.8,2,13,2,1.9,2.5,3.4,True,False,Poor,Electric,9635571.36
+942,2025-11-04,Nagpur,Nagpur,Independent House,3,4,1412.6,2510.7,2,17,1,34.6,9.5,3.0,True,False,Excellent,Electric,14743373.61
+943,2024-11-29,Mumbai,Mumbai,Apartment,5,5,2452.6,4914.0,1,7,0,18.8,2.9,3.3,True,True,Good,Solar,25463289.28
+944,2025-10-30,Nashik,Nashik,Apartment,1,2,1239.3,2750.2,3,27,0,26.0,3.1,3.7,True,True,Good,Electric,12300414.9
+945,2024-09-16,Nashik,Nashik,Villa,2,1,1097.1,2320.1,2,31,3,9.5,8.3,2.9,True,False,Excellent,Gas,10200567.35
+946,2024-08-07,Mumbai,Mumbai,Villa,5,5,2032.9,2767.8,1,0,3,3.7,1.5,2.7,False,False,Good,Solar,20700535.34
+947,2024-02-08,Pune,Pune,Villa,6,5,2651.1,3470.1,3,8,0,6.3,4.3,4.2,True,True,Poor,Solar,27263181.23
+948,2024-08-30,Pune,Pune,Villa,3,4,1783.9,3225.7,3,32,3,14.6,2.9,4.2,False,False,Excellent,Gas,16980076.14
+949,2024-04-05,Thane,Thane,Apartment,3,2,1619.9,3245.6,3,24,2,5.3,1.6,4.5,True,True,Good,Solar,16867556.85
+950,2025-03-01,Thane,Thane,Apartment,5,4,2276.7,3469.6,2,5,2,26.5,7.6,2.6,True,True,Good,Solar,22952381.76
+951,2025-11-07,Nagpur,Nagpur,Apartment,1,1,1316.2,1537.0,1,25,1,5.5,2.4,4.6,False,False,Excellent,Gas,12182187.46
+952,2025-09-29,Pune,Pune,Apartment,2,1,1885.6,2393.4,3,2,0,18.4,7.5,4.0,False,True,Excellent,Electric,18279079.25
+953,2024-06-29,Nashik,Nashik,Villa,2,1,1021.9,1143.3,1,34,3,26.4,7.0,2.9,True,True,Excellent,Solar,9824245.7
+954,2025-01-24,Nashik,Nashik,Apartment,1,1,1213.9,2314.8,2,0,1,6.9,3.6,2.4,True,False,Excellent,Gas,11331991.04
+955,2025-07-16,Nashik,Nashik,Villa,2,1,1361.2,2443.6,1,37,0,9.9,5.1,2.4,True,False,Poor,Electric,12301597.35
+956,2024-06-14,Thane,Thane,Independent House,2,2,1520.9,3563.9,1,4,0,6.5,5.3,2.2,True,False,Poor,Electric,14659613.16
+957,2024-09-24,Nashik,Nashik,Apartment,3,3,2128.0,3625.6,3,5,0,17.1,2.2,4.6,True,False,Excellent,Gas,21206471.65
+958,2024-11-11,Nagpur,Nagpur,Villa,1,1,1197.2,1525.9,3,3,2,36.4,4.6,3.5,False,False,Poor,Solar,10411574.32
+959,2024-01-03,Nagpur,Nagpur,Independent House,1,1,719.0,1639.9,1,27,2,19.7,2.0,4.5,False,False,Excellent,Gas,5768528.72
+960,2025-03-09,Pune,Pune,Independent House,2,1,1675.8,3734.6,3,1,3,22.6,1.9,3.2,True,False,Excellent,Solar,15821406.29
+961,2025-04-08,Nagpur,Nagpur,Apartment,4,4,2159.2,2822.9,1,6,0,39.0,7.3,3.4,True,True,Poor,Solar,22005189.72
+962,2025-08-01,Mumbai,Mumbai,Villa,2,2,1526.6,3752.2,2,23,3,12.7,8.2,2.5,True,True,Fair,Electric,15028381.03
+963,2025-03-26,Pune,Pune,Villa,2,2,1026.6,1423.3,3,1,0,14.0,10.0,4.4,True,False,Poor,Electric,10467500.61
+964,2024-11-14,Mumbai,Mumbai,Independent House,4,3,1590.0,2284.5,1,33,3,1.7,1.5,2.8,False,False,Excellent,Gas,15693929.71
+965,2024-01-04,Thane,Thane,Independent House,4,4,1545.0,1968.5,2,29,0,1.8,6.9,3.8,True,False,Excellent,Electric,15694594.17
+966,2025-10-25,Pune,Pune,Villa,4,5,1531.6,1766.0,3,32,2,26.2,6.4,3.5,False,False,Poor,Solar,15186060.31
+967,2024-09-29,Thane,Thane,Apartment,4,5,1876.6,2332.3,2,18,0,6.8,5.4,4.9,False,False,Fair,Electric,19183895.75
+968,2025-11-07,Nagpur,Nagpur,Apartment,4,5,1833.9,3545.2,3,37,0,39.8,5.0,2.0,False,True,Poor,Gas,18649218.97
+969,2024-03-26,Thane,,Independent House,2,1,578.7,,1,6,1,26.8,,,False,True,Poor,,6141475.31
+970,2024-11-07,Nashik,Nashik,Apartment,3,2,1666.9,3009.0,3,34,2,37.2,5.6,4.4,True,False,Excellent,Electric,15805129.75
+971,2024-02-17,Thane,Thane,Villa,5,6,2479.3,4709.5,2,14,2,18.1,1.1,2.5,True,False,Poor,Solar,24913618.18
+972,2024-10-03,Thane,,Independent House,3,3,2299.6,,3,36,3,4.6,,,True,False,Poor,,22120975.29
+973,2024-09-21,Mumbai,Mumbai,Apartment,4,4,1734.9,4199.5,3,37,3,26.9,1.5,2.1,False,True,Poor,Gas,17328078.77
+974,2024-10-26,Pune,Pune,Independent House,3,4,1408.3,1898.2,2,15,1,14.0,4.4,2.3,False,False,Poor,Solar,14091276.92
+975,2024-06-05,Mumbai,Mumbai,Apartment,1,1,893.3,1293.6,2,34,3,2.0,5.1,2.9,True,False,Poor,Gas,7906673.83
+976,2025-02-13,Thane,Thane,Independent House,5,4,2124.8,3547.0,3,40,1,1.0,9.7,4.9,True,False,Good,Solar,21707708.12
+977,2024-03-16,Nashik,Nashik,Apartment,4,4,2017.3,2646.5,3,30,3,24.5,1.6,2.1,True,True,Good,Electric,20472752.06
+978,2024-02-14,Pune,Pune,Villa,2,1,718.7,1509.8,1,13,1,9.3,7.5,4.7,False,True,Excellent,Electric,6824709.32
+979,2024-07-16,Mumbai,Mumbai,Villa,1,1,1033.9,2449.2,2,23,2,20.3,3.4,3.8,False,False,Excellent,Solar,9957353.17
+980,2025-04-17,Nagpur,Nagpur,Apartment,1,2,664.5,1565.1,3,30,0,31.1,2.1,2.8,True,True,Excellent,Electric,7185228.63
+981,2025-02-09,Thane,Thane,Independent House,4,3,1848.7,4207.0,3,14,1,36.8,6.6,4.8,False,True,Poor,Electric,18624935.3
+982,2025-11-26,Thane,Thane,Independent House,3,4,1943.6,3028.7,3,5,2,39.2,8.2,2.1,True,True,Poor,Electric,19201114.78
+983,2024-11-17,Nagpur,Nagpur,Independent House,4,3,1526.0,1920.9,2,22,0,17.5,7.6,2.7,False,True,Good,Gas,16108536.91
+984,2025-08-17,Thane,Thane,Apartment,2,3,1113.7,1816.0,1,3,0,2.0,6.9,3.7,True,False,Fair,Electric,11462038.54
+985,2024-11-18,Nashik,Nashik,Villa,4,5,2257.3,4421.4,2,35,3,17.0,3.9,3.3,True,True,Poor,Electric,22751516.43
+986,2024-09-21,Nashik,Nashik,Villa,2,2,934.7,2033.1,1,19,1,31.5,8.2,2.1,True,True,Good,Solar,9947197.69
+987,2024-07-10,Pune,Pune,Apartment,4,4,1708.9,2139.1,3,3,2,24.5,4.1,4.8,True,False,Fair,Gas,17951143.27
+988,2024-04-04,Mumbai,Mumbai,Independent House,4,4,2370.8,3638.9,1,30,2,24.9,4.5,2.3,True,False,Fair,Solar,22820862.1
+989,2025-08-14,Pune,Pune,Villa,2,1,1707.3,1914.0,2,34,3,19.8,5.5,3.7,True,True,Poor,Gas,15943006.56
+990,2024-09-14,Thane,Thane,Villa,2,3,1862.5,4115.2,1,26,3,4.0,7.6,4.8,True,True,Fair,Gas,18331508.89
+991,2024-05-10,Nashik,Nashik,Independent House,2,2,801.2,935.3,3,34,2,39.0,6.7,3.1,False,True,Good,Solar,7983223.49
+992,2024-03-19,Pune,Pune,Apartment,2,1,1328.0,2717.4,2,2,2,12.9,4.3,4.0,False,True,Good,Solar,13483057.93
+993,2025-10-22,Nashik,Nashik,Independent House,4,5,1908.1,3921.2,3,31,0,18.6,9.1,3.2,True,True,Good,Electric,19363037.17
+994,2024-02-12,Pune,Pune,Independent House,4,5,1657.6,3413.2,1,24,3,14.8,1.1,3.6,True,False,Good,Gas,17386886.77
+995,2025-12-17,Mumbai,Mumbai,Independent House,1,1,300.0,541.3,1,34,2,25.3,3.1,4.5,False,True,Excellent,Solar,3862741.47
+996,2025-03-13,Nashik,,Independent House,4,4,2420.7,,1,32,3,14.5,,,False,False,Good,,23567882.25
+997,2024-05-06,Thane,Thane,Villa,4,5,2053.4,2883.8,3,39,0,1.6,7.2,4.3,False,True,Fair,Solar,20333590.89
+998,2025-08-15,Nagpur,Nagpur,Villa,3,4,1417.0,3519.0,3,27,1,35.5,7.9,3.8,False,False,Excellent,Electric,13138678.24
+999,2025-04-05,Thane,Thane,Apartment,3,3,1904.0,2191.5,1,14,3,28.7,2.6,2.4,True,True,Good,Solar,18665588.95
+1000,2024-05-29,Pune,Pune,Apartment,2,3,1575.2,2835.3,2,35,1,37.8,6.1,5.0,True,True,Excellent,Gas,15303355.67
